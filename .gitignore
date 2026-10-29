@@ -1,0 +1,4 @@
+.sheet_snapshot.json
+raw/
+*.xlsx
+__pycache__/

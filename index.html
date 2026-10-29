@@ -1,0 +1,416 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Trevon GMB Health</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f4f3ee;--panel:#ffffff;--panel2:#faf9f6;--fg:#0b0b0b;--fg2:#52514e;--muted:#6b6a65;--line:#e4e2dc;--grid:#e1e0d9;--axis:#c3c2b7;
+  --s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;
+  --good:#0ca30c;--warn:#fab219;--crit:#d03b3b;--na:#b9b8b0;
+  --good-t:#006300;--warn-t:#8a5a00;--crit-t:#b3261e;
+  --good-bg:#e7f5e7;--warn-bg:#fdf1d6;--crit-bg:#fbe5e3;--na-bg:#efeee9;
+  --hero:#10233a;--hero-fg:#f4f3ee;--hero-mut:#a9b6c6;
+  --shadow:0 6px 22px rgba(0,0,0,.08);
+  --sans:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"Source Serif 4",Georgia,serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121211;--panel:#1a1a19;--panel2:#1f1f1d;--fg:#f0efec;--fg2:#c3c2b7;--muted:#9b9a93;--line:#2c2c2a;--grid:#2c2c2a;--axis:#383835;
+  --s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;
+  --good-t:#5fd35f;--warn-t:#f4c25a;--crit-t:#f08a84;
+  --good-bg:#16301a;--warn-bg:#382a10;--crit-bg:#3a1a19;--na-bg:#242422;
+  --hero:#0c1a2b;--hero-fg:#f0efec;--hero-mut:#93a3b7;--shadow:0 6px 22px rgba(0,0,0,.45);
+}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px;line-height:1.45}
+.wrap{max-width:1240px;margin:0 auto;padding:0 16px 60px;display:flex;flex-direction:column;gap:26px}
+h1{font-family:var(--serif);font-weight:600;font-size:clamp(26px,3.6vw,40px);margin:0;letter-spacing:-.01em;line-height:1.1}
+h2{font-size:18px;font-weight:600;margin:0}
+.cap{color:var(--muted);font-size:13px;margin:4px 0 0}
+.hero{background:var(--hero);color:var(--hero-fg);padding:34px 16px 30px}
+.hero .in{max-width:1208px;margin:0 auto}
+.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--hero-mut);font-weight:600}
+.hero .meta{color:var(--hero-mut);font-size:13px;margin-top:8px}
+.take{font-size:17px;margin:16px 0 0;max-width:60rem;color:var(--hero-fg)}
+.take b{font-weight:600}
+.lights{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
+.lights .l{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.12);border-radius:999px;padding:6px 14px 6px 8px;font-size:13.5px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,150px),1fr));gap:12px;margin-top:-44px}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 16px 14px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:3px}
+.lbl{font-size:12.5px;color:var(--muted)}
+.big{font-family:var(--serif);font-size:30px;line-height:1.1;font-variant-numeric:tabular-nums}
+.sub{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.up{color:var(--good-t)}.down{color:var(--crit-t)}
+/* status chips: colour + icon + word, never colour alone */
+.chip{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:3px 10px 3px 6px;font-size:12.5px;font-weight:600;white-space:nowrap}
+.dot{width:16px;height:16px;border-radius:50%;display:inline-grid;place-items:center;font-size:10px;font-weight:700;color:#fff;flex:none}
+.green .dot{background:var(--good)} .amber .dot{background:var(--warn);color:#0b0b0b} .red .dot{background:var(--crit)} .grey .dot{background:var(--na);color:#0b0b0b}
+.chip.green{background:var(--good-bg);color:var(--good-t)} .chip.amber{background:var(--warn-bg);color:var(--warn-t)} .chip.red{background:var(--crit-bg);color:var(--crit-t)} .chip.grey{background:var(--na-bg);color:var(--muted)}
+.props{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:14px}
+.prop{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px;display:flex;flex-direction:column;gap:14px;border-top:5px solid var(--na)}
+.prop.green{border-top-color:var(--good)} .prop.amber{border-top-color:var(--warn)} .prop.red{border-top-color:var(--crit)}
+.prop .hd{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
+.prop .nm{font-family:var(--serif);font-size:21px;font-weight:600;line-height:1.15}
+.prop .ct{font-size:13px;color:var(--muted)}
+.score{display:flex;align-items:center;gap:14px}
+.ring{position:relative;width:74px;height:74px;flex:none}
+.ring svg{transform:rotate(-90deg)}
+.ring b{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--serif);font-size:22px;font-variant-numeric:tabular-nums}
+.mini{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.mini>div{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.mini .v{font-weight:600;font-variant-numeric:tabular-nums;font-size:16px}
+.mini .k{font-size:11.5px;color:var(--muted)}
+.counts{display:flex;gap:8px;flex-wrap:wrap}
+.tw{overflow:auto;margin-top:12px}
+table{width:100%;border-collapse:collapse;font-size:13.5px;font-variant-numeric:tabular-nums}
+th{text-align:left;font-weight:600;color:var(--muted);font-size:12.5px;padding:8px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+td.n,th.n{text-align:right;white-space:nowrap}
+.matrix td{white-space:nowrap}
+.matrix td.sig{font-weight:500}
+.matrix td.sig small{display:block;color:var(--muted);font-weight:400;font-size:12px;white-space:normal;max-width:300px}
+.cell{cursor:default}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.filters button{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:999px;padding:5px 12px;cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.acts{list-style:none;margin:14px 0 0;padding:0;display:flex;flex-direction:column;gap:10px}
+.acts li{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.acts .who{font-size:12.5px;color:var(--muted);margin-bottom:2px}
+.acts .who b{color:var(--fg);font-weight:600}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,520px),1fr));gap:14px}
+.grid3{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:14px}
+.chart{position:relative;margin-top:10px}
+.chart svg{display:block;overflow:visible;width:100%}
+.chart text{font-size:11.5px;fill:var(--muted);font-family:var(--sans)}
+.legend{display:flex;flex-wrap:wrap;gap:12px;font-size:12.5px;color:var(--fg2);margin-top:8px}
+.legend i{display:inline-block;width:14px;height:3px;border-radius:2px;margin-right:6px;vertical-align:3px}
+.tip{position:absolute;pointer-events:none;background:var(--panel);border:1px solid var(--line);border-radius:8px;box-shadow:var(--shadow);padding:7px 10px;font-size:12.5px;white-space:nowrap;display:none;z-index:5;color:var(--fg)}
+.tip .t{color:var(--muted);margin-bottom:3px}
+.tip i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}
+.bar{height:8px;border-radius:4px;background:var(--grid);overflow:hidden;min-width:90px}
+.bar span{display:block;height:100%;border-radius:4px}
+.note{font-size:13px;color:var(--muted)}
+details summary{cursor:pointer;font-weight:600}
+footer{color:var(--muted);font-size:12.5px}
+.err{padding:40px;text-align:center;color:var(--muted)}
+</style>
+</head>
+<body>
+  <header class="hero"><div class="in">
+    <div class="eyebrow">Google Business Profile · traffic-light review</div>
+    <h1>Trevon Hotels — how our Google listings are doing</h1>
+    <div class="meta" id="updated">Loading…</div>
+    <p class="take" id="take"></p>
+    <div class="lights" id="lights"></div>
+    <div style="height:40px"></div>
+  </div></header>
+<div class="wrap">
+
+  <section class="kpis" id="kpis" aria-label="Portfolio totals for the latest week"></section>
+
+  <section>
+    <h2>Property scorecards</h2>
+    <p class="cap">Health score out of 100 from the 14 signals below. Ranking, rating, views and report freshness count double; a red on any of them keeps a property out of green.</p>
+    <div class="props" id="props" style="margin-top:12px"></div>
+  </section>
+
+  <section class="card">
+    <h2>Act now — action items</h2>
+    <p class="cap">Generated from every red and amber signal, plus open tasks in the agency's delegation tracker.</p>
+    <div class="filters" id="actFilters"></div>
+    <ul class="acts" id="acts"></ul>
+  </section>
+
+  <section class="card">
+    <h2>Signal board</h2>
+    <p class="cap">Latest week for each property. Hover a cell for the detail. Arrows compare with the previous week.</p>
+    <div class="tw"><table class="matrix" id="matrix"></table></div>
+  </section>
+
+  <section>
+    <h2>Weekly trends</h2>
+    <p class="cap">One line per property, by campaign week (week 0 = week of 6 Oct). Weeks the agency marked "not updated" are left as gaps.</p>
+    <div class="grid2" style="margin-top:12px">
+      <div class="card"><h2 style="font-size:16px">Profile views</h2><div class="chart" id="cViews"></div></div>
+      <div class="card"><h2 style="font-size:16px">Interactions (calls, chats, directions, website)</h2><div class="chart" id="cInter"></div></div>
+      <div class="card"><h2 style="font-size:16px">Calls</h2><div class="chart" id="cCalls"></div></div>
+      <div class="card"><h2 style="font-size:16px">Total Google reviews</h2><div class="chart" id="cRev"></div></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Keyword rankings</h2>
+    <p class="cap">Google position for each property's five target keywords. Lower is better; the top of each chart is position 1 and the shaded band is page 1 (positions 1–10).</p>
+    <div class="grid3" id="ranks" style="margin-top:12px"></div>
+  </section>
+
+  <section class="card">
+    <h2>Agency delivery — scheduled work so far</h2>
+    <p class="cap">From each property's "Regular Activities" sheet: tasks scheduled up to today, how many were done, and how many were done on time (by the next day).</p>
+    <div class="tw"><table id="delivery"></table></div>
+  </section>
+
+  <section class="card">
+    <h2>Agency task tracker</h2>
+    <p class="cap">Tasks delegated to the agency team (UC-1159 tracker).</p>
+    <div class="tw"><table id="tasks"></table></div>
+  </section>
+
+  <section class="card">
+    <details>
+      <summary>How the traffic lights are set</summary>
+      <div class="tw"><table id="rules"></table></div>
+    </details>
+  </section>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const SERIES = ['--s1','--s2','--s3','--s4','--s5'];
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const ICON = {green:'✓', amber:'!', red:'✕', grey:'–'};
+const WORD = {green:'On track', amber:'Watch', red:'Act now', grey:'No data'};
+const fmtInt = v => v==null ? '—' : Math.round(v).toLocaleString('en-IN');
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const chip = (st, text) => `<span class="chip ${st}"><span class="dot" aria-hidden="true">${ICON[st]}</span>${esc(text ?? WORD[st])}</span>`;
+const dShort = s => new Date(s+'T00:00').toLocaleDateString('en-IN',{day:'numeric',month:'short'});
+
+function fmtSig(s){
+  const v = s.value;
+  if (v == null) return '—';
+  switch (s.fmt){
+    case 'rating': return v.toFixed(1)+' ★';
+    case 'pct': return Math.round(v)+'%';
+    case 'rank': return '#'+(Math.round(v*10)/10);
+    case 'of5': return v+' / 5';
+    case 'days': return v+' days';
+    default: return fmtInt(v);
+  }
+}
+function arrow(s){
+  if (typeof s.change !== 'number') return '';
+  if (s.key === 'rank'){ // change = previous − current: positive means moved up the results
+    const c = Math.round(s.change*10)/10;
+    if (Math.abs(c) < .5) return ' <span class="sub">→</span>';
+    return c > 0 ? ` <span class="up">▲${c}</span>` : ` <span class="down">▼${-c}</span>`;
+  }
+  const c = Math.round(s.change);
+  if (c === 0) return ' <span class="sub">→ 0%</span>';
+  return c > 0 ? ` <span class="up">▲${c}%</span>` : ` <span class="down">▼${-c}%</span>`;
+}
+
+fetch('data.json?v='+Date.now()).then(r => r.json()).then(render).catch(e => {
+  document.body.innerHTML = '<div class="err">Could not load data.json — '+esc(e.message)+'</div>';
+});
+
+function render(d){
+  const P = d.properties.slice().sort((a,b) => a.city.localeCompare(b.city));
+  P.forEach((p,i) => p.color = SERIES[i % SERIES.length]);
+  const latest = p => p.weeks[p.weeks.length-1] || {};
+  const prevOf = (p,k) => { for (let i=p.weeks.length-2;i>=0;i--) if (p.weeks[i][k]!=null) return p.weeks[i][k]; return null; };
+
+  document.getElementById('updated').textContent =
+    `Data from the agency's weekly reports · refreshed ${d.generated_at} · campaign started ${dShort(P[0]?.pms.start || '')}`;
+
+  // headline
+  const reds = P.flatMap(p => p.signals.filter(s => s.status==='red').map(s => ({p, s})));
+  const worst = d.properties[0];
+  const rankRed = P.filter(p => p.signals.find(s => s.key==='rank' && s.status==='red')).map(p => p.city);
+  const viewsTot = P.reduce((a,p) => a + (latest(p).views||0), 0);
+  document.getElementById('take').innerHTML =
+    `Profile views are growing — <b>${fmtInt(viewsTot)}</b> across the ${P.length} listings in the latest week — but visibility for the words guests actually search is weak: ` +
+    `<b>${rankRed.join(', ')}</b> ${rankRed.length===1?'is':'are'} off Google's first page on average. ` +
+    `<b>${esc(worst.city)}</b> needs the most attention (score ${worst.score}/100), and the agency is delivering well under half of its scheduled work on time.`;
+
+  const cnt = st => P.reduce((a,p) => a + p.signals.filter(s => s.status===st).length, 0);
+  document.getElementById('lights').innerHTML = ['green','amber','red'].map(st =>
+    `<span class="l">${chip(st)} <span>${cnt(st)} signals</span></span>`).join('') +
+    `<span class="l"><span class="chip grey"><span class="dot">${d.tasks.filter(t=>t.status!=='Completed').length}</span>Open agency tasks</span></span>`;
+
+  // KPI tiles
+  const sum = k => P.reduce((a,p) => a + (latest(p)[k]||0), 0);
+  const sumPrev = k => P.reduce((a,p) => a + (prevOf(p,k)||0), 0);
+  const delta = (c,pv) => pv ? Math.round((c-pv)/pv*100) : null;
+  const tiles = [
+    ['Profile views', sum('views'), delta(sum('views'), sumPrev('views'))],
+    ['Interactions', sum('interactions'), delta(sum('interactions'), sumPrev('interactions'))],
+    ['Calls', sum('calls'), delta(sum('calls'), sumPrev('calls'))],
+    ['Direction requests', sum('directions'), delta(sum('directions'), sumPrev('directions'))],
+  ];
+  const totRev = sum('reviews_total');
+  const wRating = P.reduce((a,p) => a + (latest(p).rating||0)*(latest(p).reviews_total||0), 0) / (totRev||1);
+  const newRev = P.reduce((a,p) => { const s = p.signals.find(x=>x.key==='new_reviews'); return a + (s?.value||0); }, 0);
+  document.getElementById('kpis').innerHTML = tiles.map(([l,v,c]) =>
+    `<div class="tile"><span class="lbl">${l}</span><span class="big">${fmtInt(v)}</span>
+     <span class="sub">${c==null?'latest week':(c>=0?`<span class="up">▲ ${c}%</span>`:`<span class="down">▼ ${-c}%</span>`)+' vs week before'}</span></div>`).join('') +
+    `<div class="tile"><span class="lbl">Average rating</span><span class="big">${wRating.toFixed(2)} ★</span><span class="sub">${fmtInt(totRev)} reviews in total</span></div>
+     <div class="tile"><span class="lbl">New reviews</span><span class="big">${fmtInt(newRev)}</span><span class="sub">latest week, all listings</span></div>`;
+
+  // scorecards
+  document.getElementById('props').innerHTML = d.properties.map(p => {
+    const L = latest(p), r = 30, C = 2*Math.PI*r, col = {green:'--good',amber:'--warn',red:'--crit'}[p.overall];
+    const n = st => p.signals.filter(s => s.status===st).length;
+    const rank = p.signals.find(s => s.key==='rank'), rating = p.signals.find(s => s.key==='rating');
+    return `<article class="prop ${p.overall}">
+      <div class="hd"><div><div class="nm">${esc(p.name)}</div><div class="ct">${esc(p.city)} · agency lead: ${esc(p.pms.owner || p.pms.setup_owner || '—')}</div></div>${chip(p.overall)}</div>
+      <div class="score">
+        <div class="ring" role="img" aria-label="Health score ${p.score} out of 100">
+          <svg width="74" height="74"><circle cx="37" cy="37" r="${r}" fill="none" stroke="${css('--grid')}" stroke-width="8"/>
+          <circle cx="37" cy="37" r="${r}" fill="none" stroke="${css(col)}" stroke-width="8" stroke-linecap="round" stroke-dasharray="${C*p.score/100} ${C}"/></svg>
+          <b>${p.score}</b></div>
+        <div class="counts">${['green','amber','red'].map(st => `<span class="chip ${st}"><span class="dot">${ICON[st]}</span>${n(st)} ${WORD[st].toLowerCase()}</span>`).join('')}</div>
+      </div>
+      <div class="mini">
+        <div><div class="v">${fmtInt(L.views)}</div><div class="k">profile views</div></div>
+        <div><div class="v">${fmtInt(L.calls)}</div><div class="k">calls</div></div>
+        <div><div class="v">${fmtInt(L.directions)}</div><div class="k">directions</div></div>
+        <div><div class="v">${fmtSig(rating)}</div><div class="k">rating</div></div>
+        <div><div class="v">${fmtSig(rank)}</div><div class="k">avg keyword position</div></div>
+        <div><div class="v">${p.pms.citation_pct==null?'—':Math.round(p.pms.citation_pct)+'%'}</div><div class="k">citations built</div></div>
+      </div>
+      <div class="note">Week of ${dShort(L.start)} · ${p.actions.length} action item${p.actions.length===1?'':'s'}</div>
+    </article>`;
+  }).join('');
+
+  // actions
+  const allActs = d.properties.flatMap(p => p.actions);
+  const openTasks = d.tasks.filter(t => t.status !== 'Completed').map(t => ({
+    property: t.property, priority: t.overdue ? 'High' : 'Medium', status: t.overdue ? 'red' : 'amber',
+    signal: 'Agency task', text: `${t.task} — ${t.doer}${t.due ? ', due '+dShort(t.due) : ', no due date set'}${t.overdue?' (overdue)':''}`}));
+  const acts = allActs.concat(openTasks);
+  const fl = ['All','High', ...P.map(p=>p.city)];
+  let cur = 'All';
+  const drawActs = () => {
+    const list = acts.filter(a => cur==='All' || (cur==='High' ? a.priority==='High' : (a.property===cur || a.property==='All')))
+      .sort((a,b) => (a.priority==='High'?0:1) - (b.priority==='High'?0:1));
+    document.getElementById('acts').innerHTML = list.map(a => `<li>${chip(a.status, a.priority)}
+      <div><div class="who"><b>${esc(a.property==='All'?'All properties':a.property)}</b> · ${esc(a.signal)}</div>${esc(a.text)}</div></li>`).join('')
+      || '<li><div></div><div>Nothing here — all signals green.</div></li>';
+    document.querySelectorAll('#actFilters button').forEach(b => b.setAttribute('aria-pressed', b.dataset.f===cur));
+  };
+  document.getElementById('actFilters').innerHTML = fl.map(f => `<button data-f="${f}">${f==='High'?'High priority':f}</button>`).join('');
+  document.getElementById('actFilters').onclick = e => { if (e.target.dataset.f){ cur = e.target.dataset.f; drawActs(); } };
+  drawActs();
+
+  // matrix
+  const keys = P[0].signals.map(s => [s.key, s.label]);
+  document.getElementById('matrix').innerHTML =
+    `<thead><tr><th>Signal</th>${P.map(p => `<th>${esc(p.city)}</th>`).join('')}</tr></thead><tbody>` +
+    keys.map(([k,label]) => `<tr><td class="sig">${esc(label)}<small>${esc(rulesText[k]||'')}</small></td>${P.map(p => {
+      const s = p.signals.find(x => x.key===k);
+      return `<td class="cell" title="${esc(s.detail)}">${chip(s.status, fmtSig(s))}${arrow(s)}</td>`;
+    }).join('')}</tr>`).join('') +
+    `<tr><td class="sig">Overall</td>${P.map(p => `<td>${chip(p.overall, p.score+' / 100')}</td>`).join('')}</tr></tbody>`;
+
+  // trend charts
+  const ser = k => P.map(p => ({name: p.city, color: css(p.color), pts: p.weeks.map(w => ({x: w.week, y: w[k], d: w.start}))}));
+  lineChart('cViews', ser('views'));
+  lineChart('cInter', ser('interactions'));
+  lineChart('cCalls', ser('calls'));
+  lineChart('cRev', ser('reviews_total'));
+
+  // keyword ranks
+  const rk = document.getElementById('ranks');
+  rk.innerHTML = P.map(p => `<div class="card"><h2 style="font-size:16px">${esc(p.city)}</h2><div class="chart" id="rk-${p.key}"></div></div>`).join('');
+  P.forEach(p => lineChart('rk-'+p.key, p.keywords.map((kw,i) => ({name: kw, color: css(SERIES[i]),
+    pts: p.weeks.map(w => ({x: w.week, y: w.ranks[i], d: w.start}))})), {invert: true, band: 10, prefix: '#'}));
+
+  // delivery
+  const tasksNames = [...new Set(P.flatMap(p => Object.keys(p.activities)))];
+  document.getElementById('delivery').innerHTML =
+    `<thead><tr><th>Activity</th>${P.map(p => `<th>${esc(p.city)}</th>`).join('')}</tr></thead><tbody>` +
+    tasksNames.map(t => `<tr><td>${esc(t)}</td>${P.map(p => {
+      const a = p.activities[t]; if (!a) return '<td>—</td>';
+      const pc = a.planned ? a.ontime/a.planned : 0, st = pc>=.9?'green':pc>=.7?'amber':'red';
+      return `<td><div style="display:flex;gap:10px;align-items:center"><div class="bar" style="flex:1" title="${a.ontime} on time of ${a.planned} scheduled"><span style="width:${Math.round(a.done/a.planned*100)}%;background:${css(st==='green'?'--good':st==='amber'?'--warn':'--crit')}"></span></div>
+        <span class="sub" style="white-space:nowrap">${a.done}/${a.planned} done · ${a.ontime} on time</span></div></td>`;
+    }).join('')}</tr>`).join('') + '</tbody>';
+
+  // agency tasks
+  document.getElementById('tasks').innerHTML =
+    `<thead><tr><th>Task</th><th>Property</th><th>Owner</th><th>Due</th><th>Status</th></tr></thead><tbody>` +
+    d.tasks.map(t => `<tr><td style="min-width:260px">${esc(t.task)}</td><td>${esc(t.property)}</td><td>${esc(t.doer)}</td>
+      <td style="white-space:nowrap">${t.due?dShort(t.due):'not set'}</td>
+      <td>${t.status==='Completed'?chip('green','Done'):t.overdue?chip('red','Overdue'):chip('amber', t.due?'Pending':'Pending, no date')}</td></tr>`).join('') + '</tbody>';
+
+  document.getElementById('rules').innerHTML = `<thead><tr><th>Signal</th><th>${chip('green')}</th><th>${chip('amber')}</th><th>${chip('red')}</th></tr></thead><tbody>` +
+    RULES.map(r => `<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td></tr>`).join('') + '</tbody>';
+  document.getElementById('foot').innerHTML = `Source: the agency's PMS workbooks in Google Drive ("Trevon Hotels GMB data"), weekly report tab, regular-activities tab and delegation tracker. The agency updates the weekly numbers every Monday; this page rebuilds every morning. Ranchi's week-0 keyword positions of #1 look like placeholders, so treat that starting point with care.`;
+}
+
+const rulesText = {
+  fresh:'Has the agency filled in this week?', views:'Week-on-week change', interactions:'Week-on-week change', calls:'Week-on-week change',
+  directions:'Week-on-week change', rank:'Average of 5 target keywords', top10:'Keywords on Google page 1', rating:'Overall star rating',
+  new_reviews:'Reviews added this week', responses:'Replies vs new reviews', negative:'Negative reviews this week', posts:'Updates, events and offers posted',
+  ontime:'Scheduled agency work done by the next day', citations:'Directory listings completed'
+};
+const RULES = [
+  ['Report freshness','latest week ≤ 8 days old','9–14 days, or fields "not updated"','older, or Monday\'s week missing'],
+  ['Views, interactions, calls, directions','up, or down less than 5%','down 5–20%','down more than 20%'],
+  ['Avg keyword position','#1–10','#11–20 (or slipped 3+ places from green)','#21 or worse'],
+  ['Keywords in top 10','3–5','1–2','0'],
+  ['Google rating','4.5 or more','4.0–4.4','below 4.0'],
+  ['New reviews','5+ a week','2–4','0–1'],
+  ['Review replies','every new review answered','at least half','fewer than half'],
+  ['Negative reviews','0','1','2 or more'],
+  ['GMB posts','2+ a week','1','0'],
+  ['Agency tasks on time','90%+','70–89%','below 70%'],
+  ['Citations built','80%+','50–79%','below 50%'],
+];
+
+function lineChart(id, series, opt = {}){
+  const el = document.getElementById(id);
+  const xs = [...new Set(series.flatMap(s => s.pts.map(p => p.x)))].sort((a,b)=>a-b);
+  const vals = series.flatMap(s => s.pts.map(p => p.y)).filter(v => v != null);
+  const W = el.clientWidth || 500, H = opt.invert ? 220 : 210, m = {t:12, r:16, b:26, l:44};
+  const iw = W - m.l - m.r, ih = H - m.t - m.b;
+  let lo = opt.invert ? 1 : 0, hi = Math.max(...vals, opt.band || 0);
+  hi = niceMax(hi);
+  const xp = i => m.l + (xs.length < 2 ? iw/2 : i * iw / (xs.length - 1));
+  const yp = v => opt.invert ? m.t + (v - lo) / (hi - lo) * ih : m.t + ih - (v - lo) / (hi - lo) * ih;
+  const ticks = niceTicks(lo, hi, 4);
+  let g = '';
+  if (opt.band) g += `<rect x="${m.l}" y="${yp(1)}" width="${iw}" height="${yp(opt.band)-yp(1)}" fill="${css('--good')}" opacity=".09"/>`;
+  ticks.forEach(t => g += `<line x1="${m.l}" x2="${m.l+iw}" y1="${yp(t)}" y2="${yp(t)}" stroke="${css('--grid')}"/>
+    <text x="${m.l-8}" y="${yp(t)+4}" text-anchor="end">${opt.prefix||''}${fmtAxis(t)}</text>`);
+  xs.forEach((x,i) => g += `<text x="${xp(i)}" y="${H-6}" text-anchor="middle">Week ${x}</text>`);
+  series.forEach(s => {
+    let path = '', pen = false;
+    xs.forEach((x,i) => { const p = s.pts.find(q => q.x===x); if (p && p.y != null){ path += (pen?'L':'M')+xp(i)+','+yp(p.y); pen = true; } else pen = false; });
+    g += `<path d="${path}" fill="none" stroke="${s.color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>`;
+    xs.forEach((x,i) => { const p = s.pts.find(q => q.x===x); if (p && p.y != null) g += `<circle cx="${xp(i)}" cy="${yp(p.y)}" r="4" fill="${s.color}" stroke="${css('--panel')}" stroke-width="2"/>`; });
+  });
+  g += `<line class="xh" x1="0" x2="0" y1="${m.t}" y2="${m.t+ih}" stroke="${css('--axis')}" stroke-dasharray="3 3" style="display:none"/>`;
+  g += `<rect x="${m.l-10}" y="0" width="${iw+20}" height="${H}" fill="transparent" class="hit"/>`;
+  el.innerHTML = `<svg viewBox="0 0 ${W} ${H}" height="${H}" role="img" aria-label="Line chart">${g}</svg><div class="tip"></div>` +
+    (series.length > 1 ? `<div class="legend">${series.map(s => `<span><i style="background:${s.color}"></i>${esc(s.name)}</span>`).join('')}</div>` : '');
+  const svg = el.querySelector('svg'), tip = el.querySelector('.tip'), xh = el.querySelector('.xh');
+  const move = e => {
+    const r = svg.getBoundingClientRect(), px = (e.clientX - r.left) * W / r.width;
+    let i = xs.length < 2 ? 0 : Math.round((px - m.l) / (iw / (xs.length - 1)));
+    i = Math.max(0, Math.min(xs.length - 1, i));
+    xh.setAttribute('x1', xp(i)); xh.setAttribute('x2', xp(i)); xh.style.display = '';
+    const rows = series.map(s => { const p = s.pts.find(q => q.x===xs[i]); return {s, y: p ? p.y : null, d: p ? p.d : null}; })
+      .sort((a,b) => opt.invert ? (a.y??1e9)-(b.y??1e9) : (b.y??-1)-(a.y??-1));
+    tip.innerHTML = `<div class="t">Week ${xs[i]}</div>` + rows.map(r =>
+      `<div><i style="background:${r.s.color}"></i>${esc(r.s.name)}${r.d?' ('+dShort(r.d)+')':''}: <b>${r.y==null?'not updated':(opt.prefix||'')+fmtInt(r.y)}</b></div>`).join('');
+    tip.style.display = 'block';
+    const left = xp(i) * r.width / W;
+    tip.style.left = Math.min(left + 12, r.width - tip.offsetWidth - 4) + 'px';
+    tip.style.top = '8px';
+  };
+  svg.addEventListener('pointermove', move);
+  svg.addEventListener('pointerleave', () => { tip.style.display = 'none'; xh.style.display = 'none'; });
+}
+function niceMax(v){ if (v <= 0) return 1; const p = Math.pow(10, Math.floor(Math.log10(v))); const n = v / p; return (n <= 1 ? 1 : n <= 2 ? 2 : n <= 2.5 ? 2.5 : n <= 5 ? 5 : 10) * p; }
+function niceTicks(lo, hi, n){ const step = niceMax((hi - lo) / n); const out = []; for (let t = Math.ceil(lo/step)*step; t <= hi + 1e-9; t += step) out.push(t); if (lo===1 && out[0]!==1) out.unshift(1); return out; }
+function fmtAxis(v){ return v >= 1000 ? (v/1000).toLocaleString('en-IN',{maximumFractionDigits:1})+'k' : Math.round(v).toString(); }
+</script>
+</body>
+</html>
