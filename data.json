@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30 08:55 IST",
+ "generated_at": "2026-10-31 08:55 IST",
  "properties": [
   {
    "key": "ranchi",
@@ -135,7 +135,7 @@
      "ontime": 8
     },
     "Product": {
-     "planned": 10,
+     "planned": 11,
      "done": 9,
      "ontime": 4
     },
@@ -150,7 +150,7 @@
      "ontime": 0
     },
     "Review response": {
-     "planned": 22,
+     "planned": 23,
      "done": 12,
      "ontime": 11
     },
@@ -194,10 +194,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 3,
+     "value": 4,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-10-27, 3 days ago",
+     "detail": "Latest week starts 2026-10-27, 4 days ago",
      "change": null
     },
     {
@@ -305,7 +305,7 @@
      "value": 32,
      "fmt": "pct",
      "status": "red",
-     "detail": "24 of 74 scheduled tasks on time, 37 done in total",
+     "detail": "24 of 76 scheduled tasks on time, 37 done in total",
      "change": null
     },
     {
@@ -497,7 +497,7 @@
      "ontime": 5
     },
     "Product": {
-     "planned": 10,
+     "planned": 11,
      "done": 5,
      "ontime": 5
     },
@@ -512,7 +512,7 @@
      "ontime": 1
     },
     "Review response": {
-     "planned": 22,
+     "planned": 23,
      "done": 19,
      "ontime": 3
     },
@@ -556,10 +556,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 10,
+     "value": 11,
      "fmt": "days",
      "status": "red",
-     "detail": "Latest week starts 2026-10-20, 10 days ago; missing: week of 2026-10-27, website",
+     "detail": "Latest week starts 2026-10-20, 11 days ago; missing: week of 2026-10-27, website",
      "change": null
     },
     {
@@ -664,10 +664,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 19,
+     "value": 18,
      "fmt": "pct",
      "status": "red",
-     "detail": "14 of 74 scheduled tasks on time, 35 done in total",
+     "detail": "14 of 76 scheduled tasks on time, 35 done in total",
      "change": null
     },
     {
@@ -709,7 +709,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 19% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 18% of scheduled tasks on time. Raise it in the weekly call with the agency."
     }
    ]
   },
@@ -847,7 +847,7 @@
      "ontime": 1
     },
     "Product": {
-     "planned": 10,
+     "planned": 11,
      "done": 3,
      "ontime": 2
     },
@@ -862,7 +862,7 @@
      "ontime": 0
     },
     "Review response": {
-     "planned": 22,
+     "planned": 23,
      "done": 14,
      "ontime": 8
     },
@@ -906,10 +906,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 4,
+     "value": 5,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-10-26, 4 days ago",
+     "detail": "Latest week starts 2026-10-26, 5 days ago",
      "change": null
     },
     {
@@ -1014,10 +1014,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 15,
+     "value": 14,
      "fmt": "pct",
      "status": "red",
-     "detail": "11 of 74 scheduled tasks on time, 26 done in total",
+     "detail": "11 of 76 scheduled tasks on time, 26 done in total",
      "change": null
     },
     {
@@ -1052,7 +1052,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 15% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 14% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Haldwani",
