@@ -186,7 +186,11 @@ def signals_for(p):
         missing = ["week of " + due] + missing
     if missing and st == G:
         st = A
-    det = f"Latest week starts {cur.get('start')}, {days} days ago" if cur else "No weekly data"
+    if days is not None and days < 0:
+        det = f"Latest week ({cur.get('start')}) already reported"
+        days = 0
+    else:
+        det = f"Latest week starts {cur.get('start')}, {days} days ago" if cur else "No weekly data"
     if missing:
         det += "; missing: " + ", ".join(missing)
     add("fresh", "Report freshness", days, "days", st, det)
