@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01 08:55 IST",
+ "generated_at": "2026-11-02 08:55 IST",
  "properties": [
   {
    "key": "ranchi",
@@ -130,7 +130,7 @@
    },
    "activities": {
     "GMB post": {
-     "planned": 11,
+     "planned": 12,
      "done": 9,
      "ontime": 8
     },
@@ -150,12 +150,12 @@
      "ontime": 0
     },
     "Review response": {
-     "planned": 23,
+     "planned": 24,
      "done": 12,
      "ontime": 11
     },
     "Citation": {
-     "planned": 11,
+     "planned": 12,
      "done": 0,
      "ontime": 0
     },
@@ -194,10 +194,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 5,
+     "value": 6,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-10-27, 5 days ago",
+     "detail": "Latest week starts 2026-10-27, 6 days ago",
      "change": null
     },
     {
@@ -302,10 +302,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 32,
+     "value": 30,
      "fmt": "pct",
      "status": "red",
-     "detail": "24 of 76 scheduled tasks on time, 37 done in total",
+     "detail": "24 of 79 scheduled tasks on time, 37 done in total",
      "change": null
     },
     {
@@ -340,7 +340,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 32% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 30% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Ranchi",
@@ -492,7 +492,7 @@
    },
    "activities": {
     "GMB post": {
-     "planned": 11,
+     "planned": 12,
      "done": 5,
      "ontime": 5
     },
@@ -512,12 +512,12 @@
      "ontime": 1
     },
     "Review response": {
-     "planned": 23,
+     "planned": 24,
      "done": 19,
      "ontime": 3
     },
     "Citation": {
-     "planned": 11,
+     "planned": 12,
      "done": 1,
      "ontime": 0
     },
@@ -556,10 +556,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 12,
+     "value": 13,
      "fmt": "days",
      "status": "red",
-     "detail": "Latest week starts 2026-10-20, 12 days ago; missing: week of 2026-10-27, website",
+     "detail": "Latest week starts 2026-10-20, 13 days ago; missing: week of 2026-10-27, website",
      "change": null
     },
     {
@@ -667,7 +667,7 @@
      "value": 18,
      "fmt": "pct",
      "status": "red",
-     "detail": "14 of 76 scheduled tasks on time, 35 done in total",
+     "detail": "14 of 79 scheduled tasks on time, 35 done in total",
      "change": null
     },
     {
@@ -842,7 +842,7 @@
    },
    "activities": {
     "GMB post": {
-     "planned": 11,
+     "planned": 12,
      "done": 6,
      "ontime": 1
     },
@@ -862,12 +862,12 @@
      "ontime": 0
     },
     "Review response": {
-     "planned": 23,
+     "planned": 24,
      "done": 14,
      "ontime": 8
     },
     "Citation": {
-     "planned": 11,
+     "planned": 12,
      "done": 0,
      "ontime": 0
     },
@@ -906,10 +906,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 6,
+     "value": 7,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-10-26, 6 days ago",
+     "detail": "Latest week starts 2026-10-26, 7 days ago",
      "change": null
     },
     {
@@ -1017,7 +1017,7 @@
      "value": 14,
      "fmt": "pct",
      "status": "red",
-     "detail": "11 of 76 scheduled tasks on time, 26 done in total",
+     "detail": "11 of 79 scheduled tasks on time, 26 done in total",
      "change": null
     },
     {
