@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02 15:35 IST",
+ "generated_at": "2026-11-02 17:44 IST",
  "properties": [
   {
    "key": "ranchi",
@@ -420,6 +420,417 @@
    ]
   },
   {
+   "key": "haldwani",
+   "name": "Trevon The Shire Inn",
+   "city": "Haldwani",
+   "keywords": [
+    "Hotel rooms in Haldwani",
+    "Hotel in Haldwani",
+    "Budget hotel in Haldwani",
+    "Best budget hotel in Haldwani",
+    "3 Star Hotel in Haldwani"
+   ],
+   "weeks": [
+    {
+     "week": 0,
+     "start": "2026-10-06",
+     "interactions": 20.0,
+     "calls": 17.0,
+     "chats": 0.0,
+     "directions": 0.0,
+     "website": 0.0,
+     "views": 1133.0,
+     "reviews_total": 310.0,
+     "negative": 0.0,
+     "responses": 0.0,
+     "rating": 4.6,
+     "posts": 1.0,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": null,
+     "products": 0.0,
+     "ranks": [
+      10.0,
+      12.0,
+      10.0,
+      7.0,
+      3.0
+     ]
+    },
+    {
+     "week": 1,
+     "start": "2026-10-12",
+     "interactions": 117.0,
+     "calls": 28.0,
+     "chats": 0.0,
+     "directions": 86.0,
+     "website": 6.0,
+     "views": 2196.0,
+     "reviews_total": 315.0,
+     "negative": 0.0,
+     "responses": 5.0,
+     "rating": 4.6,
+     "posts": 1.0,
+     "events": 1.0,
+     "offers": 0.0,
+     "citations": null,
+     "products": 0.0,
+     "ranks": [
+      25.0,
+      32.0,
+      38.0,
+      20.0,
+      15.0
+     ]
+    },
+    {
+     "week": 2,
+     "start": "2026-10-19",
+     "interactions": 116.0,
+     "calls": 17.0,
+     "chats": 0.0,
+     "directions": 84.0,
+     "website": 5.0,
+     "views": 1248.0,
+     "reviews_total": 318.0,
+     "negative": 0.0,
+     "responses": 9.0,
+     "rating": 4.6,
+     "posts": 4.0,
+     "events": 1.0,
+     "offers": 1.0,
+     "citations": null,
+     "products": 1.0,
+     "ranks": [
+      26.0,
+      34.0,
+      35.0,
+      24.0,
+      17.0
+     ]
+    },
+    {
+     "week": 3,
+     "start": "2026-10-26",
+     "interactions": 143.0,
+     "calls": 19.0,
+     "chats": 0.0,
+     "directions": 119.0,
+     "website": 7.0,
+     "views": 3508.0,
+     "reviews_total": 320.0,
+     "negative": 0.0,
+     "responses": 2.0,
+     "rating": 4.6,
+     "posts": 2.0,
+     "events": 1.0,
+     "offers": 0.0,
+     "citations": null,
+     "products": 2.0,
+     "ranks": [
+      27.0,
+      29.0,
+      29.0,
+      23.0,
+      16.0
+     ]
+    },
+    {
+     "week": 4,
+     "start": "2026-11-02",
+     "interactions": 71.0,
+     "calls": 5.0,
+     "chats": 0.0,
+     "directions": 57.0,
+     "website": 2.0,
+     "views": 5833.0,
+     "reviews_total": 324.0,
+     "negative": 0.0,
+     "responses": 4.0,
+     "rating": 4.6,
+     "posts": 0.0,
+     "events": 0.0,
+     "offers": 1.0,
+     "citations": null,
+     "products": 0.0,
+     "ranks": [
+      36.0,
+      22.0,
+      34.0,
+      19.0,
+      13.0
+     ]
+    }
+   ],
+   "expected_week": "2026-10-26",
+   "pms": {
+    "start": "2026-10-06",
+    "age_days": 44.0,
+    "setup_owner": "Anshul",
+    "owner": "akansha",
+    "citation_owner": "Mukul",
+    "status": "In Progress",
+    "citation_pct": 61.5
+   },
+   "activities": {
+    "GMB post": {
+     "planned": 12,
+     "done": 8,
+     "ontime": 3
+    },
+    "Product": {
+     "planned": 11,
+     "done": 4,
+     "ontime": 3
+    },
+    "Offer": {
+     "planned": 1,
+     "done": 1,
+     "ontime": 0
+    },
+    "Service": {
+     "planned": 3,
+     "done": 3,
+     "ontime": 0
+    },
+    "Review response": {
+     "planned": 24,
+     "done": 17,
+     "ontime": 10
+    },
+    "Citation": {
+     "planned": 12,
+     "done": 0,
+     "ontime": 0
+    },
+    "Instagram": {
+     "planned": 3,
+     "done": 0,
+     "ontime": 0
+    },
+    "Facebook": {
+     "planned": 3,
+     "done": 1,
+     "ontime": 0
+    },
+    "LinkedIn": {
+     "planned": 3,
+     "done": 1,
+     "ontime": 0
+    },
+    "Pinterest": {
+     "planned": 3,
+     "done": 1,
+     "ontime": 0
+    },
+    "Images": {
+     "planned": 3,
+     "done": 0,
+     "ontime": 0
+    },
+    "Video": {
+     "planned": 1,
+     "done": 0,
+     "ontime": 0
+    }
+   },
+   "signals": [
+    {
+     "key": "fresh",
+     "label": "Report freshness",
+     "value": 0,
+     "fmt": "days",
+     "status": "green",
+     "detail": "Latest week starts 2026-11-02, 0 days ago",
+     "change": null
+    },
+    {
+     "key": "views",
+     "label": "Profile views",
+     "value": 5833.0,
+     "fmt": "int",
+     "status": "green",
+     "detail": "vs previous week",
+     "change": 66.27708095781072
+    },
+    {
+     "key": "interactions",
+     "label": "Interactions",
+     "value": 71.0,
+     "fmt": "int",
+     "status": "red",
+     "detail": "vs previous week",
+     "change": -50.349650349650354
+    },
+    {
+     "key": "calls",
+     "label": "Calls",
+     "value": 5.0,
+     "fmt": "int",
+     "status": "red",
+     "detail": "vs previous week",
+     "change": -73.68421052631578
+    },
+    {
+     "key": "directions",
+     "label": "Direction requests",
+     "value": 57.0,
+     "fmt": "int",
+     "status": "red",
+     "detail": "vs previous week",
+     "change": -52.10084033613446
+    },
+    {
+     "key": "rank",
+     "label": "Avg keyword position",
+     "value": 24.8,
+     "fmt": "rank",
+     "status": "red",
+     "detail": "average Google position of the 5 target keywords (lower is better); started at 8",
+     "change": 0.0
+    },
+    {
+     "key": "top10",
+     "label": "Keywords in top 10",
+     "value": 0,
+     "fmt": "of5",
+     "status": "red",
+     "detail": "target keywords ranking on Google page 1",
+     "change": null
+    },
+    {
+     "key": "rating",
+     "label": "Google rating",
+     "value": 4.6,
+     "fmt": "rating",
+     "status": "green",
+     "detail": "324 reviews in total",
+     "change": null
+    },
+    {
+     "key": "new_reviews",
+     "label": "New reviews this week",
+     "value": 4.0,
+     "fmt": "int",
+     "status": "amber",
+     "detail": "target 5+ a week",
+     "change": null
+    },
+    {
+     "key": "responses",
+     "label": "Review replies",
+     "value": 4.0,
+     "fmt": "int",
+     "status": "green",
+     "detail": "4 replies to 4 new reviews",
+     "change": null
+    },
+    {
+     "key": "negative",
+     "label": "Negative reviews",
+     "value": 0.0,
+     "fmt": "int",
+     "status": "green",
+     "detail": "this week",
+     "change": null
+    },
+    {
+     "key": "posts",
+     "label": "GMB posts this week",
+     "value": 1.0,
+     "fmt": "int",
+     "status": "amber",
+     "detail": "updates + events + offers; target 2+",
+     "change": null
+    },
+    {
+     "key": "ontime",
+     "label": "Agency tasks on time",
+     "value": 20,
+     "fmt": "pct",
+     "status": "red",
+     "detail": "16 of 79 scheduled tasks on time, 36 done in total",
+     "change": null
+    },
+    {
+     "key": "citations",
+     "label": "Citations built",
+     "value": 61.5,
+     "fmt": "pct",
+     "status": "amber",
+     "detail": "share of planned directory listings completed",
+     "change": null
+    }
+   ],
+   "score": 53,
+   "overall": "amber",
+   "actions": [
+    {
+     "property": "Haldwani",
+     "signal": "Interactions",
+     "priority": "High",
+     "status": "red",
+     "text": "Interactions fell 50% week on week. Add an offer post and make sure the booking link and phone number are live."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "Calls",
+     "priority": "High",
+     "status": "red",
+     "text": "Calls fell 74% week on week. Confirm the listed phone number rings through and is answered 24×7."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "Direction requests",
+     "priority": "High",
+     "status": "red",
+     "text": "Direction requests fell 52% week on week. Check the map pin and address match the website."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "Avg keyword position",
+     "priority": "High",
+     "status": "red",
+     "text": "Keywords average position 24.8. Work keywords into the description, services and posts; build local citations."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "Keywords in top 10",
+     "priority": "High",
+     "status": "red",
+     "text": "Only 0 of 5 target keywords on page 1. Prioritise the closest keyword with posts and Q&A that use it."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "Agency tasks on time",
+     "priority": "High",
+     "status": "red",
+     "text": "Agency delivered only 20% of scheduled tasks on time. Raise it in the weekly call with the agency."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "New reviews this week",
+     "priority": "Medium",
+     "status": "amber",
+     "text": "Only 4 new reviews this week. Send review links to checked-out guests daily."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "GMB posts this week",
+     "priority": "Medium",
+     "status": "amber",
+     "text": "Only 1 GMB posts this week. Publish at least 2 updates (rooms, food, offers)."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "Citations built",
+     "priority": "Medium",
+     "status": "amber",
+     "text": "Citations at 61.5%. Ask Mukul to finish the remaining directory listings."
+    }
+   ]
+  },
+  {
    "key": "gurugram",
    "name": "Trevon Inn Gurugram",
    "city": "Gurugram",
@@ -797,363 +1208,6 @@
      "priority": "Medium",
      "status": "amber",
      "text": "Only 1 GMB posts this week. Publish at least 2 updates (rooms, food, offers)."
-    }
-   ]
-  },
-  {
-   "key": "haldwani",
-   "name": "Trevon The Shire Inn",
-   "city": "Haldwani",
-   "keywords": [
-    "Hotel rooms in Haldwani",
-    "Hotel in Haldwani",
-    "Budget hotel in Haldwani",
-    "Best budget hotel in Haldwani",
-    "3 Star Hotel in Haldwani"
-   ],
-   "weeks": [
-    {
-     "week": 0,
-     "start": "2026-10-06",
-     "interactions": 20.0,
-     "calls": 17.0,
-     "chats": 0.0,
-     "directions": 0.0,
-     "website": 0.0,
-     "views": 1133.0,
-     "reviews_total": 310.0,
-     "negative": 0.0,
-     "responses": 0.0,
-     "rating": 4.6,
-     "posts": 1.0,
-     "events": 0.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 0.0,
-     "ranks": [
-      10.0,
-      12.0,
-      10.0,
-      7.0,
-      3.0
-     ]
-    },
-    {
-     "week": 1,
-     "start": "2026-10-12",
-     "interactions": 117.0,
-     "calls": 28.0,
-     "chats": 0.0,
-     "directions": 86.0,
-     "website": 6.0,
-     "views": 2196.0,
-     "reviews_total": 315.0,
-     "negative": 0.0,
-     "responses": 5.0,
-     "rating": 4.6,
-     "posts": 1.0,
-     "events": 1.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 0.0,
-     "ranks": [
-      25.0,
-      32.0,
-      38.0,
-      20.0,
-      15.0
-     ]
-    },
-    {
-     "week": 2,
-     "start": "2026-10-19",
-     "interactions": 116.0,
-     "calls": 17.0,
-     "chats": 0.0,
-     "directions": 84.0,
-     "website": 5.0,
-     "views": 1248.0,
-     "reviews_total": 318.0,
-     "negative": 0.0,
-     "responses": 9.0,
-     "rating": 4.6,
-     "posts": 4.0,
-     "events": 1.0,
-     "offers": 1.0,
-     "citations": null,
-     "products": 1.0,
-     "ranks": [
-      26.0,
-      34.0,
-      35.0,
-      24.0,
-      17.0
-     ]
-    },
-    {
-     "week": 3,
-     "start": "2026-10-26",
-     "interactions": 143.0,
-     "calls": 19.0,
-     "chats": 0.0,
-     "directions": 119.0,
-     "website": 7.0,
-     "views": 3508.0,
-     "reviews_total": 320.0,
-     "negative": 0.0,
-     "responses": 2.0,
-     "rating": 4.6,
-     "posts": 2.0,
-     "events": 1.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 2.0,
-     "ranks": [
-      27.0,
-      29.0,
-      29.0,
-      23.0,
-      16.0
-     ]
-    }
-   ],
-   "expected_week": "2026-10-26",
-   "pms": {
-    "start": "2026-10-06",
-    "age_days": 44.0,
-    "setup_owner": "Anshul",
-    "owner": "akansha",
-    "citation_owner": "Mukul",
-    "status": "In Progress",
-    "citation_pct": 61.5
-   },
-   "activities": {
-    "GMB post": {
-     "planned": 12,
-     "done": 8,
-     "ontime": 3
-    },
-    "Product": {
-     "planned": 11,
-     "done": 4,
-     "ontime": 3
-    },
-    "Offer": {
-     "planned": 1,
-     "done": 1,
-     "ontime": 0
-    },
-    "Service": {
-     "planned": 3,
-     "done": 3,
-     "ontime": 0
-    },
-    "Review response": {
-     "planned": 24,
-     "done": 17,
-     "ontime": 10
-    },
-    "Citation": {
-     "planned": 12,
-     "done": 0,
-     "ontime": 0
-    },
-    "Instagram": {
-     "planned": 3,
-     "done": 0,
-     "ontime": 0
-    },
-    "Facebook": {
-     "planned": 3,
-     "done": 1,
-     "ontime": 0
-    },
-    "LinkedIn": {
-     "planned": 3,
-     "done": 1,
-     "ontime": 0
-    },
-    "Pinterest": {
-     "planned": 3,
-     "done": 1,
-     "ontime": 0
-    },
-    "Images": {
-     "planned": 3,
-     "done": 0,
-     "ontime": 0
-    },
-    "Video": {
-     "planned": 1,
-     "done": 0,
-     "ontime": 0
-    }
-   },
-   "signals": [
-    {
-     "key": "fresh",
-     "label": "Report freshness",
-     "value": 7,
-     "fmt": "days",
-     "status": "green",
-     "detail": "Latest week starts 2026-10-26, 7 days ago",
-     "change": null
-    },
-    {
-     "key": "views",
-     "label": "Profile views",
-     "value": 3508.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "vs previous week",
-     "change": 181.0897435897436
-    },
-    {
-     "key": "interactions",
-     "label": "Interactions",
-     "value": 143.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "vs previous week",
-     "change": 23.275862068965516
-    },
-    {
-     "key": "calls",
-     "label": "Calls",
-     "value": 19.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "vs previous week",
-     "change": 11.76470588235294
-    },
-    {
-     "key": "directions",
-     "label": "Direction requests",
-     "value": 119.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "vs previous week",
-     "change": 41.66666666666667
-    },
-    {
-     "key": "rank",
-     "label": "Avg keyword position",
-     "value": 24.8,
-     "fmt": "rank",
-     "status": "red",
-     "detail": "average Google position of the 5 target keywords (lower is better); started at 8",
-     "change": 2.3999999999999986
-    },
-    {
-     "key": "top10",
-     "label": "Keywords in top 10",
-     "value": 0,
-     "fmt": "of5",
-     "status": "red",
-     "detail": "target keywords ranking on Google page 1",
-     "change": null
-    },
-    {
-     "key": "rating",
-     "label": "Google rating",
-     "value": 4.6,
-     "fmt": "rating",
-     "status": "green",
-     "detail": "320 reviews in total",
-     "change": null
-    },
-    {
-     "key": "new_reviews",
-     "label": "New reviews this week",
-     "value": 2.0,
-     "fmt": "int",
-     "status": "amber",
-     "detail": "target 5+ a week",
-     "change": null
-    },
-    {
-     "key": "responses",
-     "label": "Review replies",
-     "value": 2.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "2 replies to 2 new reviews",
-     "change": null
-    },
-    {
-     "key": "negative",
-     "label": "Negative reviews",
-     "value": 0.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "this week",
-     "change": null
-    },
-    {
-     "key": "posts",
-     "label": "GMB posts this week",
-     "value": 3.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "updates + events + offers; target 2+",
-     "change": null
-    },
-    {
-     "key": "ontime",
-     "label": "Agency tasks on time",
-     "value": 20,
-     "fmt": "pct",
-     "status": "red",
-     "detail": "16 of 79 scheduled tasks on time, 36 done in total",
-     "change": null
-    },
-    {
-     "key": "citations",
-     "label": "Citations built",
-     "value": 61.5,
-     "fmt": "pct",
-     "status": "amber",
-     "detail": "share of planned directory listings completed",
-     "change": null
-    }
-   ],
-   "score": 72,
-   "overall": "amber",
-   "actions": [
-    {
-     "property": "Haldwani",
-     "signal": "Avg keyword position",
-     "priority": "High",
-     "status": "red",
-     "text": "Keywords average position 24.8. Work keywords into the description, services and posts; build local citations."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "Keywords in top 10",
-     "priority": "High",
-     "status": "red",
-     "text": "Only 0 of 5 target keywords on page 1. Prioritise the closest keyword with posts and Q&A that use it."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "Agency tasks on time",
-     "priority": "High",
-     "status": "red",
-     "text": "Agency delivered only 20% of scheduled tasks on time. Raise it in the weekly call with the agency."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "New reviews this week",
-     "priority": "Medium",
-     "status": "amber",
-     "text": "Only 2 new reviews this week. Send review links to checked-out guests daily."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "Citations built",
-     "priority": "Medium",
-     "status": "amber",
-     "text": "Citations at 61.5%. Ask Mukul to finish the remaining directory listings."
     }
    ]
   }
