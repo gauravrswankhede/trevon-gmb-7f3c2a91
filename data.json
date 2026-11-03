@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02 17:44 IST",
+ "generated_at": "2026-11-03 09:54 IST",
  "properties": [
   {
    "key": "ranchi",
@@ -147,7 +147,7 @@
    "expected_week": "2026-10-27",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 44.0,
+    "age_days": 45.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -161,7 +161,7 @@
      "ontime": 10
     },
     "Product": {
-     "planned": 11,
+     "planned": 12,
      "done": 10,
      "ontime": 5
     },
@@ -176,7 +176,7 @@
      "ontime": 0
     },
     "Review response": {
-     "planned": 24,
+     "planned": 25,
      "done": 16,
      "ontime": 12
     },
@@ -223,7 +223,7 @@
      "value": 0,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week (2026-11-03) already reported",
+     "detail": "Latest week starts 2026-11-03, 0 days ago",
      "change": null
     },
     {
@@ -331,7 +331,7 @@
      "value": 35,
      "fmt": "pct",
      "status": "red",
-     "detail": "28 of 79 scheduled tasks on time, 44 done in total",
+     "detail": "28 of 81 scheduled tasks on time, 44 done in total",
      "change": null
     },
     {
@@ -562,10 +562,10 @@
      ]
     }
    ],
-   "expected_week": "2026-10-26",
+   "expected_week": "2026-11-02",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 44.0,
+    "age_days": 45.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -579,7 +579,7 @@
      "ontime": 3
     },
     "Product": {
-     "planned": 11,
+     "planned": 12,
      "done": 4,
      "ontime": 3
     },
@@ -594,7 +594,7 @@
      "ontime": 0
     },
     "Review response": {
-     "planned": 24,
+     "planned": 25,
      "done": 17,
      "ontime": 10
     },
@@ -638,10 +638,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 0,
+     "value": 1,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-11-02, 0 days ago",
+     "detail": "Latest week starts 2026-11-02, 1 days ago",
      "change": null
     },
     {
@@ -749,7 +749,7 @@
      "value": 20,
      "fmt": "pct",
      "status": "red",
-     "detail": "16 of 79 scheduled tasks on time, 36 done in total",
+     "detail": "16 of 81 scheduled tasks on time, 36 done in total",
      "change": null
     },
     {
@@ -960,7 +960,7 @@
    "expected_week": "2026-10-27",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 44.0,
+    "age_days": 45.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -974,7 +974,7 @@
      "ontime": 7
     },
     "Product": {
-     "planned": 11,
+     "planned": 12,
      "done": 6,
      "ontime": 6
     },
@@ -989,7 +989,7 @@
      "ontime": 1
     },
     "Review response": {
-     "planned": 24,
+     "planned": 25,
      "done": 22,
      "ontime": 5
     },
@@ -1033,10 +1033,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 6,
+     "value": 7,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-10-27, 6 days ago",
+     "detail": "Latest week starts 2026-10-27, 7 days ago",
      "change": null
     },
     {
@@ -1141,10 +1141,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 24,
+     "value": 23,
      "fmt": "pct",
      "status": "red",
-     "detail": "19 of 79 scheduled tasks on time, 41 done in total",
+     "detail": "19 of 81 scheduled tasks on time, 41 done in total",
      "change": null
     },
     {
@@ -1193,7 +1193,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 24% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 23% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Gurugram",
@@ -1261,7 +1261,7 @@
    "priority": "Medium",
    "property": "All",
    "assigned_by": "Anubhuti",
-   "overdue": false
+   "overdue": true
   },
   {
    "doer": "Akansha",
