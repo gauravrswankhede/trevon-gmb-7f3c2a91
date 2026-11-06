@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05 09:54 IST",
+ "generated_at": "2026-11-06 09:54 IST",
  "properties": [
   {
    "key": "ranchi",
@@ -130,11 +130,11 @@
      "negative": 0.0,
      "responses": 2.0,
      "rating": 3.4,
-     "posts": 0.0,
+     "posts": 1.0,
      "events": 0.0,
      "offers": 0.0,
      "citations": null,
-     "products": 0.0,
+     "products": 1.0,
      "ranks": [
       74.0,
       32.0,
@@ -147,7 +147,7 @@
    "expected_week": "2026-11-03",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 47.0,
+    "age_days": 48.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -156,14 +156,14 @@
    },
    "activities": {
     "GMB post": {
-     "planned": 13,
-     "done": 11,
-     "ontime": 10
+     "planned": 14,
+     "done": 12,
+     "ontime": 11
     },
     "Product": {
      "planned": 13,
-     "done": 11,
-     "ontime": 6
+     "done": 12,
+     "ontime": 7
     },
     "Offer": {
      "planned": 1,
@@ -171,42 +171,42 @@
      "ontime": 0
     },
     "Service": {
-     "planned": 3,
+     "planned": 4,
      "done": 0,
      "ontime": 0
     },
     "Review response": {
-     "planned": 27,
+     "planned": 28,
      "done": 16,
      "ontime": 12
     },
     "Citation": {
-     "planned": 13,
+     "planned": 14,
      "done": 0,
      "ontime": 0
     },
     "Instagram": {
-     "planned": 3,
+     "planned": 4,
      "done": 0,
      "ontime": 0
     },
     "Facebook": {
-     "planned": 3,
+     "planned": 4,
      "done": 2,
      "ontime": 0
     },
     "LinkedIn": {
-     "planned": 3,
+     "planned": 4,
      "done": 3,
      "ontime": 1
     },
     "Pinterest": {
-     "planned": 3,
+     "planned": 4,
      "done": 2,
      "ontime": 0
     },
     "Images": {
-     "planned": 3,
+     "planned": 4,
      "done": 0,
      "ontime": 0
     },
@@ -220,10 +220,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 2,
+     "value": 3,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-11-03, 2 days ago",
+     "detail": "Latest week starts 2026-11-03, 3 days ago",
      "change": null
     },
     {
@@ -319,19 +319,19 @@
     {
      "key": "posts",
      "label": "GMB posts this week",
-     "value": 0,
+     "value": 1.0,
      "fmt": "int",
-     "status": "red",
+     "status": "amber",
      "detail": "updates + events + offers; target 2+",
      "change": null
     },
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 34,
+     "value": 33,
      "fmt": "pct",
      "status": "red",
-     "detail": "29 of 86 scheduled tasks on time, 45 done in total",
+     "detail": "31 of 95 scheduled tasks on time, 47 done in total",
      "change": null
     },
     {
@@ -344,7 +344,7 @@
      "change": null
     }
    ],
-   "score": 36,
+   "score": 39,
    "overall": "red",
    "actions": [
     {
@@ -391,17 +391,10 @@
     },
     {
      "property": "Ranchi",
-     "signal": "GMB posts this week",
-     "priority": "High",
-     "status": "red",
-     "text": "Only 0 GMB posts this week. Publish at least 2 updates (rooms, food, offers)."
-    },
-    {
-     "property": "Ranchi",
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 34% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 33% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Ranchi",
@@ -416,6 +409,13 @@
      "priority": "Medium",
      "status": "amber",
      "text": "Only 2 new reviews this week. Send review links to checked-out guests daily."
+    },
+    {
+     "property": "Ranchi",
+     "signal": "GMB posts this week",
+     "priority": "Medium",
+     "status": "amber",
+     "text": "Only 1 GMB posts this week. Publish at least 2 updates (rooms, food, offers)."
     }
    ]
   },
@@ -549,7 +549,7 @@
    "expected_week": "2026-11-03",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 47.0,
+    "age_days": 48.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -558,9 +558,9 @@
    },
    "activities": {
     "GMB post": {
-     "planned": 13,
-     "done": 7,
-     "ontime": 7
+     "planned": 14,
+     "done": 8,
+     "ontime": 8
     },
     "Product": {
      "planned": 13,
@@ -573,44 +573,44 @@
      "ontime": 0
     },
     "Service": {
-     "planned": 3,
-     "done": 3,
-     "ontime": 1
+     "planned": 4,
+     "done": 4,
+     "ontime": 2
     },
     "Review response": {
-     "planned": 27,
+     "planned": 28,
      "done": 24,
      "ontime": 7
     },
     "Citation": {
-     "planned": 13,
+     "planned": 14,
      "done": 1,
      "ontime": 0
     },
     "Instagram": {
-     "planned": 3,
+     "planned": 4,
      "done": 0,
      "ontime": 0
     },
     "Facebook": {
-     "planned": 3,
+     "planned": 4,
      "done": 0,
      "ontime": 0
     },
     "LinkedIn": {
-     "planned": 3,
+     "planned": 4,
      "done": 0,
      "ontime": 0
     },
     "Pinterest": {
-     "planned": 3,
-     "done": 3,
-     "ontime": 0
+     "planned": 4,
+     "done": 4,
+     "ontime": 1
     },
     "Images": {
-     "planned": 3,
-     "done": 3,
-     "ontime": 0
+     "planned": 4,
+     "done": 4,
+     "ontime": 1
     },
     "Video": {
      "planned": 1,
@@ -622,10 +622,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 9,
+     "value": 10,
      "fmt": "days",
      "status": "red",
-     "detail": "Latest week starts 2026-10-27, 9 days ago; missing: week of 2026-11-03",
+     "detail": "Latest week starts 2026-10-27, 10 days ago; missing: week of 2026-11-03",
      "change": null
     },
     {
@@ -730,10 +730,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 26,
+     "value": 27,
      "fmt": "pct",
      "status": "red",
-     "detail": "22 of 86 scheduled tasks on time, 49 done in total",
+     "detail": "26 of 95 scheduled tasks on time, 53 done in total",
      "change": null
     },
     {
@@ -789,7 +789,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 26% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 27% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Gurugram",
@@ -936,11 +936,11 @@
      "negative": 0.0,
      "responses": 4.0,
      "rating": 4.6,
-     "posts": 0.0,
+     "posts": 1.0,
      "events": 0.0,
      "offers": 1.0,
      "citations": null,
-     "products": 1.0,
+     "products": 2.0,
      "ranks": [
       36.0,
       22.0,
@@ -953,7 +953,7 @@
    "expected_week": "2026-11-02",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 47.0,
+    "age_days": 48.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -962,14 +962,14 @@
    },
    "activities": {
     "GMB post": {
-     "planned": 13,
-     "done": 8,
-     "ontime": 3
+     "planned": 14,
+     "done": 10,
+     "ontime": 5
     },
     "Product": {
      "planned": 13,
-     "done": 5,
-     "ontime": 4
+     "done": 6,
+     "ontime": 5
     },
     "Offer": {
      "planned": 1,
@@ -977,42 +977,42 @@
      "ontime": 0
     },
     "Service": {
-     "planned": 3,
+     "planned": 4,
      "done": 3,
      "ontime": 0
     },
     "Review response": {
-     "planned": 27,
+     "planned": 28,
      "done": 17,
      "ontime": 10
     },
     "Citation": {
-     "planned": 13,
+     "planned": 14,
      "done": 0,
      "ontime": 0
     },
     "Instagram": {
-     "planned": 3,
+     "planned": 4,
      "done": 0,
      "ontime": 0
     },
     "Facebook": {
-     "planned": 3,
+     "planned": 4,
      "done": 1,
      "ontime": 0
     },
     "LinkedIn": {
-     "planned": 3,
+     "planned": 4,
      "done": 1,
      "ontime": 0
     },
     "Pinterest": {
-     "planned": 3,
+     "planned": 4,
      "done": 1,
      "ontime": 0
     },
     "Images": {
-     "planned": 3,
+     "planned": 4,
      "done": 0,
      "ontime": 0
     },
@@ -1026,10 +1026,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 3,
+     "value": 4,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-11-02, 3 days ago",
+     "detail": "Latest week starts 2026-11-02, 4 days ago",
      "change": null
     },
     {
@@ -1125,19 +1125,19 @@
     {
      "key": "posts",
      "label": "GMB posts this week",
-     "value": 1.0,
+     "value": 2.0,
      "fmt": "int",
-     "status": "amber",
+     "status": "green",
      "detail": "updates + events + offers; target 2+",
      "change": null
     },
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 20,
+     "value": 21,
      "fmt": "pct",
      "status": "red",
-     "detail": "17 of 86 scheduled tasks on time, 37 done in total",
+     "detail": "20 of 95 scheduled tasks on time, 40 done in total",
      "change": null
     },
     {
@@ -1150,7 +1150,7 @@
      "change": null
     }
    ],
-   "score": 53,
+   "score": 56,
    "overall": "amber",
    "actions": [
     {
@@ -1193,7 +1193,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 20% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 21% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Haldwani",
@@ -1201,13 +1201,6 @@
      "priority": "Medium",
      "status": "amber",
      "text": "Only 4 new reviews this week. Send review links to checked-out guests daily."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "GMB posts this week",
-     "priority": "Medium",
-     "status": "amber",
-     "text": "Only 1 GMB posts this week. Publish at least 2 updates (rooms, food, offers)."
     },
     {
      "property": "Haldwani",
