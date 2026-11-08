@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07 09:53 IST",
+ "generated_at": "2026-11-08 09:54 IST",
  "properties": [
   {
    "key": "ranchi",
@@ -134,7 +134,7 @@
      "events": 0.0,
      "offers": 0.0,
      "citations": null,
-     "products": 1.0,
+     "products": 2.0,
      "ranks": [
       74.0,
       32.0,
@@ -147,7 +147,7 @@
    "expected_week": "2026-11-03",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 49.0,
+    "age_days": 50.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -162,8 +162,8 @@
     },
     "Product": {
      "planned": 14,
-     "done": 12,
-     "ontime": 7
+     "done": 13,
+     "ontime": 8
     },
     "Offer": {
      "planned": 1,
@@ -220,10 +220,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 4,
+     "value": 5,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-11-03, 4 days ago",
+     "detail": "Latest week starts 2026-11-03, 5 days ago",
      "change": null
     },
     {
@@ -328,10 +328,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 33,
+     "value": 34,
      "fmt": "pct",
      "status": "red",
-     "detail": "32 of 97 scheduled tasks on time, 48 done in total",
+     "detail": "33 of 97 scheduled tasks on time, 49 done in total",
      "change": null
     },
     {
@@ -394,7 +394,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 33% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 34% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Ranchi",
@@ -542,7 +542,7 @@
    "expected_week": "2026-11-03",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 49.0,
+    "age_days": 50.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -557,8 +557,8 @@
     },
     "Product": {
      "planned": 14,
-     "done": 7,
-     "ontime": 7
+     "done": 8,
+     "ontime": 8
     },
     "Offer": {
      "planned": 1,
@@ -615,10 +615,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 11,
+     "value": 12,
      "fmt": "days",
      "status": "red",
-     "detail": "Latest week starts 2026-10-27, 11 days ago; missing: week of 2026-11-03",
+     "detail": "Latest week starts 2026-10-27, 12 days ago; missing: week of 2026-11-03",
      "change": null
     },
     {
@@ -723,10 +723,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 28,
+     "value": 29,
      "fmt": "pct",
      "status": "red",
-     "detail": "27 of 97 scheduled tasks on time, 54 done in total",
+     "detail": "28 of 97 scheduled tasks on time, 55 done in total",
      "change": null
     },
     {
@@ -782,7 +782,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 28% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 29% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Gurugram",
@@ -933,7 +933,7 @@
      "events": 0.0,
      "offers": 1.0,
      "citations": null,
-     "products": 2.0,
+     "products": 3.0,
      "ranks": [
       36.0,
       22.0,
@@ -946,7 +946,7 @@
    "expected_week": "2026-11-02",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 49.0,
+    "age_days": 50.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -961,8 +961,8 @@
     },
     "Product": {
      "planned": 14,
-     "done": 6,
-     "ontime": 5
+     "done": 7,
+     "ontime": 6
     },
     "Offer": {
      "planned": 1,
@@ -1019,10 +1019,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 5,
+     "value": 6,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-11-02, 5 days ago",
+     "detail": "Latest week starts 2026-11-02, 6 days ago",
      "change": null
     },
     {
@@ -1127,10 +1127,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 21,
+     "value": 22,
      "fmt": "pct",
      "status": "red",
-     "detail": "20 of 97 scheduled tasks on time, 40 done in total",
+     "detail": "21 of 97 scheduled tasks on time, 41 done in total",
      "change": null
     },
     {
@@ -1186,7 +1186,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 21% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 22% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Haldwani",
@@ -1230,7 +1230,7 @@
    "doer": "Akansha",
    "task": "Share immediate alerts in the group whenever a critical issue is identified.",
    "due": null,
-   "status": "Pending",
+   "status": "Continue",
    "priority": "Medium",
    "property": "All",
    "assigned_by": "Anubhuti",
@@ -1240,11 +1240,11 @@
    "doer": "Akansha",
    "task": "Investigate the reason for the continuous ranking decline of the Haldwani profile.",
    "due": "2026-10-31",
-   "status": "Pending",
+   "status": "Completed",
    "priority": "Medium",
    "property": "Haldwani",
    "assigned_by": "Anubhuti",
-   "overdue": true
+   "overdue": false
   },
   {
    "doer": "Tarun (DD1013)",
@@ -1260,11 +1260,11 @@
    "doer": "Akansha",
    "task": "Add relevant hotel services, such as banquet halls and fitness clubs, to the GMB descriptions.",
    "due": "2026-10-31",
-   "status": "Pending",
+   "status": "Completed",
    "priority": "Medium",
    "property": "All",
    "assigned_by": "Anubhuti",
-   "overdue": true
+   "overdue": false
   }
  ]
 }
