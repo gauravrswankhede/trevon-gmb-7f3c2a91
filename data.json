@@ -1,6 +1,1618 @@
 {
- "generated_at": "2026-11-09 09:54 IST",
+ "generated_at": "2026-11-10 09:54 IST",
  "properties": [
+  {
+   "key": "haldwani",
+   "name": "Trevon The Shire Inn",
+   "city": "Haldwani",
+   "keywords": [
+    "Hotel rooms in Haldwani",
+    "Hotel in Haldwani",
+    "Budget hotel in Haldwani",
+    "Best budget hotel in Haldwani",
+    "3 Star Hotel in Haldwani"
+   ],
+   "weeks": [
+    {
+     "week": 0,
+     "start": "2026-10-06",
+     "interactions": 20.0,
+     "calls": 17.0,
+     "chats": 0.0,
+     "directions": 0.0,
+     "website": 0.0,
+     "views": 0.0,
+     "reviews_total": 0.0,
+     "negative": 310.0,
+     "responses": 0.0,
+     "rating": 0.0,
+     "posts": null,
+     "events": 1.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      10.0,
+      12.0,
+      10.0,
+      7.0,
+      3.0
+     ]
+    },
+    {
+     "week": 1,
+     "start": "2026-10-12",
+     "interactions": 117.0,
+     "calls": 28.0,
+     "chats": 0.0,
+     "directions": 86.0,
+     "website": 0.0,
+     "views": 6.0,
+     "reviews_total": 1.0,
+     "negative": 315.0,
+     "responses": 0.0,
+     "rating": 5.0,
+     "posts": null,
+     "events": 1.0,
+     "offers": 1.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      25.0,
+      32.0,
+      38.0,
+      20.0,
+      15.0
+     ]
+    },
+    {
+     "week": 2,
+     "start": "2026-10-19",
+     "interactions": 116.0,
+     "calls": 17.0,
+     "chats": 0.0,
+     "directions": 84.0,
+     "website": 0.0,
+     "views": 5.0,
+     "reviews_total": 2.0,
+     "negative": 318.0,
+     "responses": 0.0,
+     "rating": 9.0,
+     "posts": null,
+     "events": 4.0,
+     "offers": 1.0,
+     "citations": 1.0,
+     "products": null,
+     "ranks": [
+      26.0,
+      34.0,
+      35.0,
+      24.0,
+      17.0
+     ]
+    },
+    {
+     "week": 3,
+     "start": "2026-10-26",
+     "interactions": 143.0,
+     "calls": 19.0,
+     "chats": 0.0,
+     "directions": 119.0,
+     "website": 0.0,
+     "views": 7.0,
+     "reviews_total": 3.0,
+     "negative": 320.0,
+     "responses": 0.0,
+     "rating": 2.0,
+     "posts": null,
+     "events": 2.0,
+     "offers": 1.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      27.0,
+      29.0,
+      29.0,
+      23.0,
+      16.0
+     ]
+    },
+    {
+     "week": 4,
+     "start": "2026-11-02",
+     "interactions": 71.0,
+     "calls": 5.0,
+     "chats": 0.0,
+     "directions": 57.0,
+     "website": 0.0,
+     "views": 2.0,
+     "reviews_total": 4.0,
+     "negative": 324.0,
+     "responses": 0.0,
+     "rating": 4.0,
+     "posts": null,
+     "events": 2.0,
+     "offers": 0.0,
+     "citations": 1.0,
+     "products": null,
+     "ranks": [
+      36.0,
+      22.0,
+      34.0,
+      19.0,
+      13.0
+     ]
+    },
+    {
+     "week": 5,
+     "start": "2026-11-09",
+     "interactions": 97.0,
+     "calls": 4.0,
+     "chats": 0.0,
+     "directions": 84.0,
+     "website": 8.0,
+     "views": 1.0,
+     "reviews_total": 5.0,
+     "negative": 325.0,
+     "responses": 0.0,
+     "rating": 1.0,
+     "posts": null,
+     "events": 1.0,
+     "offers": 0.0,
+     "citations": 1.0,
+     "products": null,
+     "ranks": [
+      34.0,
+      40.0,
+      32.0,
+      22.0,
+      17.0
+     ]
+    },
+    {
+     "week": 6,
+     "start": "2026-11-16",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 6.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 7,
+     "start": "2026-11-23",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 7.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 8,
+     "start": "2026-11-30",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 8.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 9,
+     "start": "2026-12-07",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 9.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 10,
+     "start": "2026-12-14",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 10.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 11,
+     "start": "2026-12-21",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 11.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 12,
+     "start": "2026-12-28",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 12.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 13,
+     "start": "2027-01-04",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 13.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 14,
+     "start": "2027-01-11",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 14.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 15,
+     "start": "2027-01-18",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 15.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 16,
+     "start": "2027-01-25",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 16.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 17,
+     "start": "2027-02-01",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 17.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 18,
+     "start": "2027-02-08",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 18.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 19,
+     "start": "2027-02-15",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 19.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 20,
+     "start": "2027-02-22",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 20.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 21,
+     "start": "2027-03-01",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 21.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 22,
+     "start": "2027-03-08",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 22.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 23,
+     "start": "2027-03-15",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 23.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 24,
+     "start": "2027-03-22",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 24.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 25,
+     "start": "2027-03-29",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 25.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 26,
+     "start": "2027-04-05",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 26.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 27,
+     "start": "2027-04-12",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 27.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 28,
+     "start": "2027-04-19",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 28.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 29,
+     "start": "2027-04-26",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 29.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 30,
+     "start": "2027-05-03",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 30.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 31,
+     "start": "2027-05-10",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 31.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 32,
+     "start": "2027-05-17",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 32.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 33,
+     "start": "2027-05-24",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 33.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 34,
+     "start": "2027-05-31",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 34.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 35,
+     "start": "2027-06-07",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 35.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 36,
+     "start": "2027-06-14",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 36.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 37,
+     "start": "2027-06-21",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 37.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 38,
+     "start": "2027-06-28",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 38.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 39,
+     "start": "2027-07-05",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 39.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 40,
+     "start": "2027-07-12",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 40.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 41,
+     "start": "2027-07-19",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 41.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 42,
+     "start": "2027-07-26",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 42.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 43,
+     "start": "2027-08-02",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 43.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 44,
+     "start": "2027-08-09",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 44.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 45,
+     "start": "2027-08-16",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 45.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 46,
+     "start": "2027-08-23",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 46.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 47,
+     "start": "2027-08-30",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 47.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 48,
+     "start": "2027-09-06",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 48.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 49,
+     "start": "2027-09-13",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 49.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 50,
+     "start": "2027-09-20",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 50.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "week": 51,
+     "start": "2027-09-27",
+     "interactions": null,
+     "calls": null,
+     "chats": null,
+     "directions": null,
+     "website": null,
+     "views": null,
+     "reviews_total": 51.0,
+     "negative": null,
+     "responses": null,
+     "rating": null,
+     "posts": null,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": 0.0,
+     "products": null,
+     "ranks": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    }
+   ],
+   "expected_week": "2026-11-09",
+   "pms": {
+    "start": "2026-10-06",
+    "age_days": 52.0,
+    "setup_owner": "Anshul",
+    "owner": "akansha",
+    "citation_owner": "Mukul",
+    "status": "In Progress",
+    "citation_pct": 61.5
+   },
+   "activities": {
+    "GMB post": {
+     "planned": 15,
+     "done": 11,
+     "ontime": 6
+    },
+    "Product": {
+     "planned": 15,
+     "done": 7,
+     "ontime": 6
+    },
+    "Offer": {
+     "planned": 2,
+     "done": 2,
+     "ontime": 1
+    },
+    "Service": {
+     "planned": 4,
+     "done": 3,
+     "ontime": 0
+    },
+    "Review response": {
+     "planned": 31,
+     "done": 17,
+     "ontime": 10
+    },
+    "Citation": {
+     "planned": 15,
+     "done": 0,
+     "ontime": 0
+    },
+    "Instagram": {
+     "planned": 4,
+     "done": 0,
+     "ontime": 0
+    },
+    "Facebook": {
+     "planned": 4,
+     "done": 1,
+     "ontime": 0
+    },
+    "LinkedIn": {
+     "planned": 4,
+     "done": 1,
+     "ontime": 0
+    },
+    "Pinterest": {
+     "planned": 4,
+     "done": 1,
+     "ontime": 0
+    },
+    "Images": {
+     "planned": 4,
+     "done": 0,
+     "ontime": 0
+    },
+    "Video": {
+     "planned": 2,
+     "done": 0,
+     "ontime": 0
+    }
+   },
+   "signals": [
+    {
+     "key": "fresh",
+     "label": "Report freshness",
+     "value": 0,
+     "fmt": "days",
+     "status": "green",
+     "detail": "Latest week (2027-09-27) already reported",
+     "change": null
+    },
+    {
+     "key": "views",
+     "label": "Profile views",
+     "value": null,
+     "fmt": "int",
+     "status": "grey",
+     "detail": "up from 1 (baseline too small for a %)",
+     "change": null
+    },
+    {
+     "key": "interactions",
+     "label": "Interactions",
+     "value": null,
+     "fmt": "int",
+     "status": "grey",
+     "detail": "up from 97 (baseline too small for a %)",
+     "change": null
+    },
+    {
+     "key": "calls",
+     "label": "Calls",
+     "value": null,
+     "fmt": "int",
+     "status": "grey",
+     "detail": "up from 4 (baseline too small for a %)",
+     "change": null
+    },
+    {
+     "key": "directions",
+     "label": "Direction requests",
+     "value": null,
+     "fmt": "int",
+     "status": "grey",
+     "detail": "up from 84 (baseline too small for a %)",
+     "change": null
+    },
+    {
+     "key": "rank",
+     "label": "Avg keyword position",
+     "value": null,
+     "fmt": "rank",
+     "status": "grey",
+     "detail": "average Google position of the 5 target keywords (lower is better); started at 8",
+     "change": null
+    },
+    {
+     "key": "top10",
+     "label": "Keywords in top 10",
+     "value": 0,
+     "fmt": "of5",
+     "status": "red",
+     "detail": "target keywords ranking on Google page 1",
+     "change": null
+    },
+    {
+     "key": "rating",
+     "label": "Google rating",
+     "value": null,
+     "fmt": "rating",
+     "status": "grey",
+     "detail": "51 reviews in total",
+     "change": null
+    },
+    {
+     "key": "new_reviews",
+     "label": "New reviews this week",
+     "value": 1.0,
+     "fmt": "int",
+     "status": "red",
+     "detail": "target 5+ a week",
+     "change": null
+    },
+    {
+     "key": "responses",
+     "label": "Review replies",
+     "value": null,
+     "fmt": "int",
+     "status": "red",
+     "detail": "0 replies to 1 new reviews",
+     "change": null
+    },
+    {
+     "key": "negative",
+     "label": "Negative reviews",
+     "value": null,
+     "fmt": "int",
+     "status": "grey",
+     "detail": "this week",
+     "change": null
+    },
+    {
+     "key": "posts",
+     "label": "GMB posts this week",
+     "value": 0,
+     "fmt": "int",
+     "status": "red",
+     "detail": "updates + events + offers; target 2+",
+     "change": null
+    },
+    {
+     "key": "ontime",
+     "label": "Agency tasks on time",
+     "value": 22,
+     "fmt": "pct",
+     "status": "red",
+     "detail": "23 of 104 scheduled tasks on time, 43 done in total",
+     "change": null
+    },
+    {
+     "key": "citations",
+     "label": "Citations built",
+     "value": 61.5,
+     "fmt": "pct",
+     "status": "amber",
+     "detail": "share of planned directory listings completed",
+     "change": null
+    }
+   ],
+   "score": 31,
+   "overall": "red",
+   "actions": [
+    {
+     "property": "Haldwani",
+     "signal": "Keywords in top 10",
+     "priority": "High",
+     "status": "red",
+     "text": "Only 0 of 5 target keywords on page 1. Prioritise the closest keyword with posts and Q&A that use it."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "New reviews this week",
+     "priority": "High",
+     "status": "red",
+     "text": "Only 1 new reviews this week. Send review links to checked-out guests daily."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "Review replies",
+     "priority": "High",
+     "status": "red",
+     "text": "Not every new review got a reply. Reply to all reviews within 48 hours."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "GMB posts this week",
+     "priority": "High",
+     "status": "red",
+     "text": "Only 0 GMB posts this week. Publish at least 2 updates (rooms, food, offers)."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "Agency tasks on time",
+     "priority": "High",
+     "status": "red",
+     "text": "Agency delivered only 22% of scheduled tasks on time. Raise it in the weekly call with the agency."
+    },
+    {
+     "property": "Haldwani",
+     "signal": "Citations built",
+     "priority": "Medium",
+     "status": "amber",
+     "text": "Citations at 61.5%. Ask Mukul to finish the remaining directory listings."
+    }
+   ]
+  },
   {
    "key": "ranchi",
    "name": "Trevon Hotel Gujarat Centrale",
@@ -27,7 +1639,7 @@
      "responses": 0.0,
      "rating": 3.3,
      "posts": 2.0,
-     "events": 0.0,
+     "events": 1.0,
      "offers": 0.0,
      "citations": null,
      "products": 2.0,
@@ -53,7 +1665,7 @@
      "responses": 4.0,
      "rating": 3.3,
      "posts": 2.0,
-     "events": 0.0,
+     "events": 1.0,
      "offers": 0.0,
      "citations": null,
      "products": 4.0,
@@ -79,8 +1691,8 @@
      "responses": 2.0,
      "rating": 3.3,
      "posts": 2.0,
-     "events": 0.0,
-     "offers": 0.0,
+     "events": 1.0,
+     "offers": 1.0,
      "citations": null,
      "products": 3.0,
      "ranks": [
@@ -105,7 +1717,7 @@
      "responses": 4.0,
      "rating": 3.3,
      "posts": 3.0,
-     "events": 0.0,
+     "events": 1.0,
      "offers": 0.0,
      "citations": null,
      "products": 2.0,
@@ -130,9 +1742,9 @@
      "negative": 0.0,
      "responses": 2.0,
      "rating": 3.4,
-     "posts": 2.0,
-     "events": 0.0,
-     "offers": 0.0,
+     "posts": 3.0,
+     "events": 1.0,
+     "offers": 1.0,
      "citations": null,
      "products": 2.0,
      "ranks": [
@@ -142,12 +1754,38 @@
       56.0,
       13.0
      ]
+    },
+    {
+     "week": 5,
+     "start": "2026-11-10",
+     "interactions": 71.0,
+     "calls": 19.0,
+     "chats": 0.0,
+     "directions": 49.0,
+     "website": 3.0,
+     "views": 490.0,
+     "reviews_total": 552.0,
+     "negative": 0.0,
+     "responses": 7.0,
+     "rating": 3.4,
+     "posts": 0.0,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": null,
+     "products": 0.0,
+     "ranks": [
+      37.0,
+      26.0,
+      55.0,
+      55.0,
+      10.0
+     ]
     }
    ],
    "expected_week": "2026-11-03",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 51.0,
+    "age_days": 52.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -157,26 +1795,26 @@
    "activities": {
     "GMB post": {
      "planned": 15,
-     "done": 13,
-     "ontime": 12
+     "done": 14,
+     "ontime": 13
     },
     "Product": {
-     "planned": 14,
+     "planned": 15,
      "done": 13,
      "ontime": 8
     },
     "Offer": {
      "planned": 2,
-     "done": 0,
-     "ontime": 0
+     "done": 2,
+     "ontime": 1
     },
     "Service": {
      "planned": 4,
-     "done": 0,
+     "done": 4,
      "ontime": 0
     },
     "Review response": {
-     "planned": 30,
+     "planned": 31,
      "done": 16,
      "ontime": 12
     },
@@ -220,63 +1858,63 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 6,
+     "value": 0,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-11-03, 6 days ago",
+     "detail": "Latest week starts 2026-11-10, 0 days ago",
      "change": null
     },
     {
      "key": "views",
      "label": "Profile views",
-     "value": 5363.0,
+     "value": 490.0,
      "fmt": "int",
-     "status": "green",
+     "status": "red",
      "detail": "vs previous week",
-     "change": 22.16400911161731
+     "change": -90.86332276710796
     },
     {
      "key": "interactions",
      "label": "Interactions",
-     "value": 124.0,
+     "value": 71.0,
      "fmt": "int",
      "status": "red",
      "detail": "vs previous week",
-     "change": -28.735632183908045
+     "change": -42.74193548387097
     },
     {
      "key": "calls",
      "label": "Calls",
-     "value": 26.0,
+     "value": 19.0,
      "fmt": "int",
      "status": "red",
      "detail": "vs previous week",
-     "change": -27.77777777777778
+     "change": -26.923076923076923
     },
     {
      "key": "directions",
      "label": "Direction requests",
-     "value": 87.0,
+     "value": 49.0,
      "fmt": "int",
      "status": "red",
      "detail": "vs previous week",
-     "change": -31.496062992125985
+     "change": -43.67816091954023
     },
     {
      "key": "rank",
      "label": "Avg keyword position",
-     "value": 45.6,
+     "value": 36.6,
      "fmt": "rank",
      "status": "red",
      "detail": "average Google position of the 5 target keywords (lower is better); started at 9",
-     "change": -21.8
+     "change": 9.0
     },
     {
      "key": "top10",
      "label": "Keywords in top 10",
-     "value": 0,
+     "value": 1,
      "fmt": "of5",
-     "status": "red",
+     "status": "amber",
      "detail": "target keywords ranking on Google page 1",
      "change": null
     },
@@ -286,25 +1924,25 @@
      "value": 3.4,
      "fmt": "rating",
      "status": "red",
-     "detail": "545 reviews in total",
+     "detail": "552 reviews in total",
      "change": null
     },
     {
      "key": "new_reviews",
      "label": "New reviews this week",
-     "value": 2.0,
+     "value": 7.0,
      "fmt": "int",
-     "status": "amber",
+     "status": "green",
      "detail": "target 5+ a week",
      "change": null
     },
     {
      "key": "responses",
      "label": "Review replies",
-     "value": 2.0,
+     "value": 7.0,
      "fmt": "int",
      "status": "green",
-     "detail": "2 replies to 2 new reviews",
+     "detail": "7 replies to 7 new reviews",
      "change": null
     },
     {
@@ -319,19 +1957,19 @@
     {
      "key": "posts",
      "label": "GMB posts this week",
-     "value": 2.0,
+     "value": 0,
      "fmt": "int",
-     "status": "green",
+     "status": "red",
      "detail": "updates + events + offers; target 2+",
      "change": null
     },
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 32,
+     "value": 34,
      "fmt": "pct",
      "status": "red",
-     "detail": "33 of 102 scheduled tasks on time, 49 done in total",
+     "detail": "35 of 104 scheduled tasks on time, 56 done in total",
      "change": null
     },
     {
@@ -344,43 +1982,43 @@
      "change": null
     }
    ],
-   "score": 42,
+   "score": 31,
    "overall": "red",
    "actions": [
+    {
+     "property": "Ranchi",
+     "signal": "Profile views",
+     "priority": "High",
+     "status": "red",
+     "text": "Profile views fell 91% week on week. Post 2 fresh photo updates and check the profile for edits or suspensions."
+    },
     {
      "property": "Ranchi",
      "signal": "Interactions",
      "priority": "High",
      "status": "red",
-     "text": "Interactions fell 29% week on week. Add an offer post and make sure the booking link and phone number are live."
+     "text": "Interactions fell 43% week on week. Add an offer post and make sure the booking link and phone number are live."
     },
     {
      "property": "Ranchi",
      "signal": "Calls",
      "priority": "High",
      "status": "red",
-     "text": "Calls fell 28% week on week. Confirm the listed phone number rings through and is answered 24×7."
+     "text": "Calls fell 27% week on week. Confirm the listed phone number rings through and is answered 24×7."
     },
     {
      "property": "Ranchi",
      "signal": "Direction requests",
      "priority": "High",
      "status": "red",
-     "text": "Direction requests fell 31% week on week. Check the map pin and address match the website."
+     "text": "Direction requests fell 44% week on week. Check the map pin and address match the website."
     },
     {
      "property": "Ranchi",
      "signal": "Avg keyword position",
      "priority": "High",
      "status": "red",
-     "text": "Keywords average position 45.6. Work keywords into the description, services and posts; build local citations."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "Keywords in top 10",
-     "priority": "High",
-     "status": "red",
-     "text": "Only 0 of 5 target keywords on page 1. Prioritise the closest keyword with posts and Q&A that use it."
+     "text": "Keywords average position 36.6. Work keywords into the description, services and posts; build local citations."
     },
     {
      "property": "Ranchi",
@@ -391,10 +2029,17 @@
     },
     {
      "property": "Ranchi",
+     "signal": "GMB posts this week",
+     "priority": "High",
+     "status": "red",
+     "text": "Only 0 GMB posts this week. Publish at least 2 updates (rooms, food, offers)."
+    },
+    {
+     "property": "Ranchi",
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 32% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 34% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Ranchi",
@@ -405,10 +2050,10 @@
     },
     {
      "property": "Ranchi",
-     "signal": "New reviews this week",
+     "signal": "Keywords in top 10",
      "priority": "Medium",
      "status": "amber",
-     "text": "Only 2 new reviews this week. Send review links to checked-out guests daily."
+     "text": "Only 1 of 5 target keywords on page 1. Prioritise the closest keyword with posts and Q&A that use it."
     }
    ]
   },
@@ -537,12 +2182,38 @@
       78.0,
       60.0
      ]
+    },
+    {
+     "week": 4,
+     "start": "2026-11-03",
+     "interactions": 70.0,
+     "calls": 9.0,
+     "chats": 7.0,
+     "directions": 55.0,
+     "website": 0.0,
+     "views": 317.0,
+     "reviews_total": 50.0,
+     "negative": 0.0,
+     "responses": 2.0,
+     "rating": 4.8,
+     "posts": 3.0,
+     "events": 1.0,
+     "offers": 1.0,
+     "citations": null,
+     "products": 1.0,
+     "ranks": [
+      99.0,
+      87.0,
+      85.0,
+      88.0,
+      71.0
+     ]
     }
    ],
    "expected_week": "2026-11-03",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 51.0,
+    "age_days": 52.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -552,11 +2223,11 @@
    "activities": {
     "GMB post": {
      "planned": 15,
-     "done": 9,
-     "ontime": 9
+     "done": 10,
+     "ontime": 10
     },
     "Product": {
-     "planned": 14,
+     "planned": 15,
      "done": 8,
      "ontime": 8
     },
@@ -571,7 +2242,7 @@
      "ontime": 2
     },
     "Review response": {
-     "planned": 30,
+     "planned": 31,
      "done": 24,
      "ontime": 7
     },
@@ -615,56 +2286,56 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 13,
+     "value": 7,
      "fmt": "days",
-     "status": "red",
-     "detail": "Latest week starts 2026-10-27, 13 days ago; missing: week of 2026-11-03",
+     "status": "green",
+     "detail": "Latest week starts 2026-11-03, 7 days ago",
      "change": null
     },
     {
      "key": "views",
      "label": "Profile views",
-     "value": 3180.0,
+     "value": 317.0,
      "fmt": "int",
-     "status": "green",
+     "status": "red",
      "detail": "vs previous week",
-     "change": 29.426129426129428
+     "change": -90.0314465408805
     },
     {
      "key": "interactions",
      "label": "Interactions",
-     "value": 96.0,
+     "value": 70.0,
      "fmt": "int",
      "status": "red",
      "detail": "vs previous week",
-     "change": -27.27272727272727
+     "change": -27.083333333333332
     },
     {
      "key": "calls",
      "label": "Calls",
-     "value": 13.0,
+     "value": 9.0,
      "fmt": "int",
-     "status": "amber",
+     "status": "red",
      "detail": "vs previous week",
-     "change": -7.142857142857142
+     "change": -30.76923076923077
     },
     {
      "key": "directions",
      "label": "Direction requests",
-     "value": 79.0,
+     "value": 55.0,
      "fmt": "int",
      "status": "red",
      "detail": "vs previous week",
-     "change": -29.464285714285715
+     "change": -30.37974683544304
     },
     {
      "key": "rank",
      "label": "Avg keyword position",
-     "value": 78.2,
+     "value": 86.0,
      "fmt": "rank",
      "status": "red",
      "detail": "average Google position of the 5 target keywords (lower is better); started at 79",
-     "change": 5.799999999999997
+     "change": -7.799999999999997
     },
     {
      "key": "top10",
@@ -681,25 +2352,25 @@
      "value": 4.8,
      "fmt": "rating",
      "status": "green",
-     "detail": "48 reviews in total",
+     "detail": "50 reviews in total",
      "change": null
     },
     {
      "key": "new_reviews",
      "label": "New reviews this week",
-     "value": 6.0,
+     "value": 2.0,
      "fmt": "int",
-     "status": "green",
+     "status": "amber",
      "detail": "target 5+ a week",
      "change": null
     },
     {
      "key": "responses",
      "label": "Review replies",
-     "value": 6.0,
+     "value": 2.0,
      "fmt": "int",
      "status": "green",
-     "detail": "6 replies to 6 new reviews",
+     "detail": "2 replies to 2 new reviews",
      "change": null
     },
     {
@@ -714,19 +2385,19 @@
     {
      "key": "posts",
      "label": "GMB posts this week",
-     "value": 1.0,
+     "value": 5.0,
      "fmt": "int",
-     "status": "amber",
+     "status": "green",
      "detail": "updates + events + offers; target 2+",
      "change": null
     },
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 28,
+     "value": 29,
      "fmt": "pct",
      "status": "red",
-     "detail": "29 of 102 scheduled tasks on time, 56 done in total",
+     "detail": "30 of 104 scheduled tasks on time, 57 done in total",
      "change": null
     },
     {
@@ -739,15 +2410,15 @@
      "change": null
     }
    ],
-   "score": 50,
+   "score": 47,
    "overall": "amber",
    "actions": [
     {
      "property": "Gurugram",
-     "signal": "Report freshness",
+     "signal": "Profile views",
      "priority": "High",
      "status": "red",
-     "text": "Ask akansha to fill this week's numbers in the weekly report (due every Monday 12 PM) (week of 2026-11-03)."
+     "text": "Profile views fell 90% week on week. Post 2 fresh photo updates and check the profile for edits or suspensions."
     },
     {
      "property": "Gurugram",
@@ -758,17 +2429,24 @@
     },
     {
      "property": "Gurugram",
+     "signal": "Calls",
+     "priority": "High",
+     "status": "red",
+     "text": "Calls fell 31% week on week. Confirm the listed phone number rings through and is answered 24×7."
+    },
+    {
+     "property": "Gurugram",
      "signal": "Direction requests",
      "priority": "High",
      "status": "red",
-     "text": "Direction requests fell 29% week on week. Check the map pin and address match the website."
+     "text": "Direction requests fell 30% week on week. Check the map pin and address match the website."
     },
     {
      "property": "Gurugram",
      "signal": "Avg keyword position",
      "priority": "High",
      "status": "red",
-     "text": "Keywords average position 78.2. Work keywords into the description, services and posts; build local citations."
+     "text": "Keywords average position 86. Work keywords into the description, services and posts; build local citations."
     },
     {
      "property": "Gurugram",
@@ -782,425 +2460,14 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 28% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 29% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Gurugram",
-     "signal": "Calls",
-     "priority": "Medium",
-     "status": "amber",
-     "text": "Calls fell 7% week on week. Confirm the listed phone number rings through and is answered 24×7."
-    },
-    {
-     "property": "Gurugram",
-     "signal": "GMB posts this week",
-     "priority": "Medium",
-     "status": "amber",
-     "text": "Only 1 GMB posts this week. Publish at least 2 updates (rooms, food, offers)."
-    }
-   ]
-  },
-  {
-   "key": "haldwani",
-   "name": "Trevon The Shire Inn",
-   "city": "Haldwani",
-   "keywords": [
-    "Hotel rooms in Haldwani",
-    "Hotel in Haldwani",
-    "Budget hotel in Haldwani",
-    "Best budget hotel in Haldwani",
-    "3 Star Hotel in Haldwani"
-   ],
-   "weeks": [
-    {
-     "week": 0,
-     "start": "2026-10-06",
-     "interactions": 20.0,
-     "calls": 17.0,
-     "chats": 0.0,
-     "directions": 0.0,
-     "website": 0.0,
-     "views": 1133.0,
-     "reviews_total": 310.0,
-     "negative": 0.0,
-     "responses": 0.0,
-     "rating": 4.6,
-     "posts": 1.0,
-     "events": 0.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 0.0,
-     "ranks": [
-      10.0,
-      12.0,
-      10.0,
-      7.0,
-      3.0
-     ]
-    },
-    {
-     "week": 1,
-     "start": "2026-10-12",
-     "interactions": 117.0,
-     "calls": 28.0,
-     "chats": 0.0,
-     "directions": 86.0,
-     "website": 6.0,
-     "views": 2196.0,
-     "reviews_total": 315.0,
-     "negative": 0.0,
-     "responses": 5.0,
-     "rating": 4.6,
-     "posts": 1.0,
-     "events": 1.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 0.0,
-     "ranks": [
-      25.0,
-      32.0,
-      38.0,
-      20.0,
-      15.0
-     ]
-    },
-    {
-     "week": 2,
-     "start": "2026-10-19",
-     "interactions": 116.0,
-     "calls": 17.0,
-     "chats": 0.0,
-     "directions": 84.0,
-     "website": 5.0,
-     "views": 1248.0,
-     "reviews_total": 318.0,
-     "negative": 0.0,
-     "responses": 9.0,
-     "rating": 4.6,
-     "posts": 4.0,
-     "events": 1.0,
-     "offers": 1.0,
-     "citations": null,
-     "products": 1.0,
-     "ranks": [
-      26.0,
-      34.0,
-      35.0,
-      24.0,
-      17.0
-     ]
-    },
-    {
-     "week": 3,
-     "start": "2026-10-26",
-     "interactions": 143.0,
-     "calls": 19.0,
-     "chats": 0.0,
-     "directions": 119.0,
-     "website": 7.0,
-     "views": 3508.0,
-     "reviews_total": 320.0,
-     "negative": 0.0,
-     "responses": 2.0,
-     "rating": 4.6,
-     "posts": 2.0,
-     "events": 1.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 2.0,
-     "ranks": [
-      27.0,
-      29.0,
-      29.0,
-      23.0,
-      16.0
-     ]
-    },
-    {
-     "week": 4,
-     "start": "2026-11-02",
-     "interactions": 71.0,
-     "calls": 5.0,
-     "chats": 0.0,
-     "directions": 57.0,
-     "website": 2.0,
-     "views": 5833.0,
-     "reviews_total": 324.0,
-     "negative": 0.0,
-     "responses": 4.0,
-     "rating": 4.6,
-     "posts": 1.0,
-     "events": 0.0,
-     "offers": 1.0,
-     "citations": null,
-     "products": 3.0,
-     "ranks": [
-      36.0,
-      22.0,
-      34.0,
-      19.0,
-      13.0
-     ]
-    }
-   ],
-   "expected_week": "2026-11-02",
-   "pms": {
-    "start": "2026-10-06",
-    "age_days": 51.0,
-    "setup_owner": "Anshul",
-    "owner": "akansha",
-    "citation_owner": "Mukul",
-    "status": "In Progress",
-    "citation_pct": 61.5
-   },
-   "activities": {
-    "GMB post": {
-     "planned": 15,
-     "done": 10,
-     "ontime": 5
-    },
-    "Product": {
-     "planned": 14,
-     "done": 7,
-     "ontime": 6
-    },
-    "Offer": {
-     "planned": 2,
-     "done": 2,
-     "ontime": 1
-    },
-    "Service": {
-     "planned": 4,
-     "done": 3,
-     "ontime": 0
-    },
-    "Review response": {
-     "planned": 30,
-     "done": 17,
-     "ontime": 10
-    },
-    "Citation": {
-     "planned": 15,
-     "done": 0,
-     "ontime": 0
-    },
-    "Instagram": {
-     "planned": 4,
-     "done": 0,
-     "ontime": 0
-    },
-    "Facebook": {
-     "planned": 4,
-     "done": 1,
-     "ontime": 0
-    },
-    "LinkedIn": {
-     "planned": 4,
-     "done": 1,
-     "ontime": 0
-    },
-    "Pinterest": {
-     "planned": 4,
-     "done": 1,
-     "ontime": 0
-    },
-    "Images": {
-     "planned": 4,
-     "done": 0,
-     "ontime": 0
-    },
-    "Video": {
-     "planned": 2,
-     "done": 0,
-     "ontime": 0
-    }
-   },
-   "signals": [
-    {
-     "key": "fresh",
-     "label": "Report freshness",
-     "value": 7,
-     "fmt": "days",
-     "status": "green",
-     "detail": "Latest week starts 2026-11-02, 7 days ago",
-     "change": null
-    },
-    {
-     "key": "views",
-     "label": "Profile views",
-     "value": 5833.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "vs previous week",
-     "change": 66.27708095781072
-    },
-    {
-     "key": "interactions",
-     "label": "Interactions",
-     "value": 71.0,
-     "fmt": "int",
-     "status": "red",
-     "detail": "vs previous week",
-     "change": -50.349650349650354
-    },
-    {
-     "key": "calls",
-     "label": "Calls",
-     "value": 5.0,
-     "fmt": "int",
-     "status": "red",
-     "detail": "vs previous week",
-     "change": -73.68421052631578
-    },
-    {
-     "key": "directions",
-     "label": "Direction requests",
-     "value": 57.0,
-     "fmt": "int",
-     "status": "red",
-     "detail": "vs previous week",
-     "change": -52.10084033613446
-    },
-    {
-     "key": "rank",
-     "label": "Avg keyword position",
-     "value": 24.8,
-     "fmt": "rank",
-     "status": "red",
-     "detail": "average Google position of the 5 target keywords (lower is better); started at 8",
-     "change": 0.0
-    },
-    {
-     "key": "top10",
-     "label": "Keywords in top 10",
-     "value": 0,
-     "fmt": "of5",
-     "status": "red",
-     "detail": "target keywords ranking on Google page 1",
-     "change": null
-    },
-    {
-     "key": "rating",
-     "label": "Google rating",
-     "value": 4.6,
-     "fmt": "rating",
-     "status": "green",
-     "detail": "324 reviews in total",
-     "change": null
-    },
-    {
-     "key": "new_reviews",
-     "label": "New reviews this week",
-     "value": 4.0,
-     "fmt": "int",
-     "status": "amber",
-     "detail": "target 5+ a week",
-     "change": null
-    },
-    {
-     "key": "responses",
-     "label": "Review replies",
-     "value": 4.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "4 replies to 4 new reviews",
-     "change": null
-    },
-    {
-     "key": "negative",
-     "label": "Negative reviews",
-     "value": 0.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "this week",
-     "change": null
-    },
-    {
-     "key": "posts",
-     "label": "GMB posts this week",
-     "value": 2.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "updates + events + offers; target 2+",
-     "change": null
-    },
-    {
-     "key": "ontime",
-     "label": "Agency tasks on time",
-     "value": 22,
-     "fmt": "pct",
-     "status": "red",
-     "detail": "22 of 102 scheduled tasks on time, 42 done in total",
-     "change": null
-    },
-    {
-     "key": "citations",
-     "label": "Citations built",
-     "value": 61.5,
-     "fmt": "pct",
-     "status": "amber",
-     "detail": "share of planned directory listings completed",
-     "change": null
-    }
-   ],
-   "score": 56,
-   "overall": "amber",
-   "actions": [
-    {
-     "property": "Haldwani",
-     "signal": "Interactions",
-     "priority": "High",
-     "status": "red",
-     "text": "Interactions fell 50% week on week. Add an offer post and make sure the booking link and phone number are live."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "Calls",
-     "priority": "High",
-     "status": "red",
-     "text": "Calls fell 74% week on week. Confirm the listed phone number rings through and is answered 24×7."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "Direction requests",
-     "priority": "High",
-     "status": "red",
-     "text": "Direction requests fell 52% week on week. Check the map pin and address match the website."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "Avg keyword position",
-     "priority": "High",
-     "status": "red",
-     "text": "Keywords average position 24.8. Work keywords into the description, services and posts; build local citations."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "Keywords in top 10",
-     "priority": "High",
-     "status": "red",
-     "text": "Only 0 of 5 target keywords on page 1. Prioritise the closest keyword with posts and Q&A that use it."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "Agency tasks on time",
-     "priority": "High",
-     "status": "red",
-     "text": "Agency delivered only 22% of scheduled tasks on time. Raise it in the weekly call with the agency."
-    },
-    {
-     "property": "Haldwani",
      "signal": "New reviews this week",
      "priority": "Medium",
      "status": "amber",
-     "text": "Only 4 new reviews this week. Send review links to checked-out guests daily."
-    },
-    {
-     "property": "Haldwani",
-     "signal": "Citations built",
-     "priority": "Medium",
-     "status": "amber",
-     "text": "Citations at 61.5%. Ask Mukul to finish the remaining directory listings."
+     "text": "Only 2 new reviews this week. Send review links to checked-out guests daily."
     }
    ]
   }
