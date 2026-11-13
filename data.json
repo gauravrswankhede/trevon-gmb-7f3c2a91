@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12 09:54 IST",
+ "generated_at": "2026-11-13 09:54 IST",
  "properties": [
   {
    "key": "haldwani",
@@ -157,7 +157,7 @@
      "responses": 0.0,
      "rating": 1.0,
      "posts": null,
-     "events": 1.0,
+     "events": 2.0,
      "offers": 0.0,
      "citations": 1.0,
      "products": null,
@@ -1369,7 +1369,7 @@
    "expected_week": "2026-11-09",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 54.0,
+    "age_days": 55.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -1378,14 +1378,14 @@
    },
    "activities": {
     "GMB post": {
-     "planned": 16,
-     "done": 11,
-     "ontime": 6
+     "planned": 17,
+     "done": 12,
+     "ontime": 7
     },
     "Product": {
      "planned": 16,
-     "done": 7,
-     "ontime": 6
+     "done": 8,
+     "ontime": 7
     },
     "Offer": {
      "planned": 2,
@@ -1398,12 +1398,12 @@
      "ontime": 0
     },
     "Review response": {
-     "planned": 33,
+     "planned": 34,
      "done": 17,
      "ontime": 10
     },
     "Citation": {
-     "planned": 16,
+     "planned": 17,
      "done": 0,
      "ontime": 0
     },
@@ -1550,10 +1550,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 21,
+     "value": 22,
      "fmt": "pct",
      "status": "red",
-     "detail": "23 of 109 scheduled tasks on time, 43 done in total",
+     "detail": "25 of 112 scheduled tasks on time, 45 done in total",
      "change": null
     },
     {
@@ -1602,7 +1602,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 21% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 22% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Haldwani",
@@ -1772,7 +1772,7 @@
      "events": 0.0,
      "offers": 0.0,
      "citations": null,
-     "products": 1.0,
+     "products": 2.0,
      "ranks": [
       37.0,
       26.0,
@@ -1785,7 +1785,7 @@
    "expected_week": "2026-11-10",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 54.0,
+    "age_days": 55.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -1794,14 +1794,14 @@
    },
    "activities": {
     "GMB post": {
-     "planned": 16,
+     "planned": 17,
      "done": 15,
      "ontime": 14
     },
     "Product": {
      "planned": 16,
-     "done": 14,
-     "ontime": 9
+     "done": 15,
+     "ontime": 10
     },
     "Offer": {
      "planned": 2,
@@ -1814,12 +1814,12 @@
      "ontime": 0
     },
     "Review response": {
-     "planned": 33,
-     "done": 16,
-     "ontime": 12
+     "planned": 34,
+     "done": 25,
+     "ontime": 14
     },
     "Citation": {
-     "planned": 16,
+     "planned": 17,
      "done": 0,
      "ontime": 0
     },
@@ -1835,7 +1835,7 @@
     },
     "LinkedIn": {
      "planned": 4,
-     "done": 3,
+     "done": 4,
      "ontime": 1
     },
     "Pinterest": {
@@ -1858,10 +1858,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 2,
+     "value": 3,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-11-10, 2 days ago",
+     "detail": "Latest week starts 2026-11-10, 3 days ago",
      "change": null
     },
     {
@@ -1966,10 +1966,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 34,
+     "value": 36,
      "fmt": "pct",
      "status": "red",
-     "detail": "37 of 109 scheduled tasks on time, 58 done in total",
+     "detail": "40 of 112 scheduled tasks on time, 69 done in total",
      "change": null
     },
     {
@@ -2032,7 +2032,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 34% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 36% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Ranchi",
@@ -2213,7 +2213,7 @@
    "expected_week": "2026-11-10",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 54.0,
+    "age_days": 55.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -2222,14 +2222,14 @@
    },
    "activities": {
     "GMB post": {
-     "planned": 16,
-     "done": 10,
-     "ontime": 10
+     "planned": 17,
+     "done": 11,
+     "ontime": 11
     },
     "Product": {
      "planned": 16,
-     "done": 8,
-     "ontime": 8
+     "done": 9,
+     "ontime": 9
     },
     "Offer": {
      "planned": 2,
@@ -2242,12 +2242,12 @@
      "ontime": 2
     },
     "Review response": {
-     "planned": 33,
-     "done": 24,
-     "ontime": 7
+     "planned": 34,
+     "done": 32,
+     "ontime": 9
     },
     "Citation": {
-     "planned": 16,
+     "planned": 17,
      "done": 1,
      "ontime": 0
     },
@@ -2278,7 +2278,7 @@
     },
     "Video": {
      "planned": 2,
-     "done": 0,
+     "done": 2,
      "ontime": 0
     }
    },
@@ -2286,10 +2286,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 9,
+     "value": 10,
      "fmt": "days",
      "status": "red",
-     "detail": "Latest week starts 2026-11-03, 9 days ago; missing: week of 2026-11-10",
+     "detail": "Latest week starts 2026-11-03, 10 days ago; missing: week of 2026-11-10",
      "change": null
     },
     {
@@ -2394,10 +2394,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 28,
+     "value": 30,
      "fmt": "pct",
      "status": "red",
-     "detail": "30 of 109 scheduled tasks on time, 57 done in total",
+     "detail": "34 of 112 scheduled tasks on time, 69 done in total",
      "change": null
     },
     {
@@ -2467,7 +2467,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 28% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 30% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Gurugram",
