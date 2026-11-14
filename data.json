@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13 09:54 IST",
+ "generated_at": "2026-11-14 09:54 IST",
  "properties": [
   {
    "key": "haldwani",
@@ -157,7 +157,7 @@
      "responses": 0.0,
      "rating": 1.0,
      "posts": null,
-     "events": 2.0,
+     "events": 3.0,
      "offers": 0.0,
      "citations": 1.0,
      "products": null,
@@ -1369,7 +1369,7 @@
    "expected_week": "2026-11-09",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 55.0,
+    "age_days": 56.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -1379,11 +1379,11 @@
    "activities": {
     "GMB post": {
      "planned": 17,
-     "done": 12,
-     "ontime": 7
+     "done": 13,
+     "ontime": 8
     },
     "Product": {
-     "planned": 16,
+     "planned": 17,
      "done": 8,
      "ontime": 7
     },
@@ -1393,12 +1393,12 @@
      "ontime": 1
     },
     "Service": {
-     "planned": 4,
+     "planned": 5,
      "done": 3,
      "ontime": 0
     },
     "Review response": {
-     "planned": 34,
+     "planned": 35,
      "done": 17,
      "ontime": 10
     },
@@ -1408,27 +1408,27 @@
      "ontime": 0
     },
     "Instagram": {
-     "planned": 4,
+     "planned": 5,
      "done": 0,
      "ontime": 0
     },
     "Facebook": {
-     "planned": 4,
+     "planned": 5,
      "done": 1,
      "ontime": 0
     },
     "LinkedIn": {
-     "planned": 4,
+     "planned": 5,
      "done": 1,
      "ontime": 0
     },
     "Pinterest": {
-     "planned": 4,
+     "planned": 5,
      "done": 1,
      "ontime": 0
     },
     "Images": {
-     "planned": 4,
+     "planned": 5,
      "done": 0,
      "ontime": 0
     },
@@ -1553,7 +1553,7 @@
      "value": 22,
      "fmt": "pct",
      "status": "red",
-     "detail": "25 of 112 scheduled tasks on time, 45 done in total",
+     "detail": "26 of 120 scheduled tasks on time, 46 done in total",
      "change": null
     },
     {
@@ -1610,450 +1610,6 @@
      "priority": "Medium",
      "status": "amber",
      "text": "Citations at 61.5%. Ask Mukul to finish the remaining directory listings."
-    }
-   ]
-  },
-  {
-   "key": "ranchi",
-   "name": "Trevon Hotel Gujarat Centrale",
-   "city": "Ranchi",
-   "keywords": [
-    "Hotel rooms in ranchi",
-    "Hotel in ranchi",
-    "Budget hotel in ranchi",
-    "Best budget hotel in ranchi",
-    "3 Star Hotel in ranchi"
-   ],
-   "weeks": [
-    {
-     "week": 0,
-     "start": "2026-10-06",
-     "interactions": 13.0,
-     "calls": 14.0,
-     "chats": 0.0,
-     "directions": 0.0,
-     "website": 0.0,
-     "views": 602.0,
-     "reviews_total": 533.0,
-     "negative": 0.0,
-     "responses": 0.0,
-     "rating": 3.3,
-     "posts": 2.0,
-     "events": 1.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 2.0,
-     "ranks": [
-      1.0,
-      1.0,
-      1.0,
-      43.0,
-      1.0
-     ]
-    },
-    {
-     "week": 1,
-     "start": "2026-10-13",
-     "interactions": 224.0,
-     "calls": 51.0,
-     "chats": 4.0,
-     "directions": 163.0,
-     "website": 6.0,
-     "views": 1710.0,
-     "reviews_total": 537.0,
-     "negative": 0.0,
-     "responses": 4.0,
-     "rating": 3.3,
-     "posts": 2.0,
-     "events": 1.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 4.0,
-     "ranks": [
-      29.0,
-      141.0,
-      109.0,
-      102.0,
-      64.0
-     ]
-    },
-    {
-     "week": 2,
-     "start": "2026-10-20",
-     "interactions": 159.0,
-     "calls": 41.0,
-     "chats": 6.0,
-     "directions": 110.0,
-     "website": 2.0,
-     "views": 3261.0,
-     "reviews_total": 539.0,
-     "negative": 0.0,
-     "responses": 2.0,
-     "rating": 3.3,
-     "posts": 2.0,
-     "events": 1.0,
-     "offers": 1.0,
-     "citations": null,
-     "products": 3.0,
-     "ranks": [
-      19.0,
-      16.0,
-      27.0,
-      46.0,
-      8.0
-     ]
-    },
-    {
-     "week": 3,
-     "start": "2026-10-27",
-     "interactions": 174.0,
-     "calls": 36.0,
-     "chats": 3.0,
-     "directions": 127.0,
-     "website": 8.0,
-     "views": 4390.0,
-     "reviews_total": 543.0,
-     "negative": 0.0,
-     "responses": 4.0,
-     "rating": 3.3,
-     "posts": 3.0,
-     "events": 1.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 2.0,
-     "ranks": [
-      18.0,
-      15.0,
-      25.0,
-      54.0,
-      7.0
-     ]
-    },
-    {
-     "week": 4,
-     "start": "2026-11-03",
-     "interactions": 124.0,
-     "calls": 26.0,
-     "chats": 4.0,
-     "directions": 87.0,
-     "website": 9.0,
-     "views": 5363.0,
-     "reviews_total": 545.0,
-     "negative": 0.0,
-     "responses": 2.0,
-     "rating": 3.4,
-     "posts": 3.0,
-     "events": 1.0,
-     "offers": 1.0,
-     "citations": null,
-     "products": 3.0,
-     "ranks": [
-      74.0,
-      32.0,
-      53.0,
-      56.0,
-      13.0
-     ]
-    },
-    {
-     "week": 5,
-     "start": "2026-11-10",
-     "interactions": 71.0,
-     "calls": 19.0,
-     "chats": 0.0,
-     "directions": 49.0,
-     "website": 3.0,
-     "views": 490.0,
-     "reviews_total": 552.0,
-     "negative": 0.0,
-     "responses": 7.0,
-     "rating": 3.4,
-     "posts": 1.0,
-     "events": 0.0,
-     "offers": 0.0,
-     "citations": null,
-     "products": 2.0,
-     "ranks": [
-      37.0,
-      26.0,
-      55.0,
-      55.0,
-      10.0
-     ]
-    }
-   ],
-   "expected_week": "2026-11-10",
-   "pms": {
-    "start": "2026-10-06",
-    "age_days": 55.0,
-    "setup_owner": "Anshul",
-    "owner": "akansha",
-    "citation_owner": "Mukul",
-    "status": "In Progress",
-    "citation_pct": 46.2
-   },
-   "activities": {
-    "GMB post": {
-     "planned": 17,
-     "done": 15,
-     "ontime": 14
-    },
-    "Product": {
-     "planned": 16,
-     "done": 15,
-     "ontime": 10
-    },
-    "Offer": {
-     "planned": 2,
-     "done": 2,
-     "ontime": 1
-    },
-    "Service": {
-     "planned": 4,
-     "done": 4,
-     "ontime": 0
-    },
-    "Review response": {
-     "planned": 34,
-     "done": 25,
-     "ontime": 14
-    },
-    "Citation": {
-     "planned": 17,
-     "done": 0,
-     "ontime": 0
-    },
-    "Instagram": {
-     "planned": 4,
-     "done": 0,
-     "ontime": 0
-    },
-    "Facebook": {
-     "planned": 4,
-     "done": 2,
-     "ontime": 0
-    },
-    "LinkedIn": {
-     "planned": 4,
-     "done": 4,
-     "ontime": 1
-    },
-    "Pinterest": {
-     "planned": 4,
-     "done": 2,
-     "ontime": 0
-    },
-    "Images": {
-     "planned": 4,
-     "done": 0,
-     "ontime": 0
-    },
-    "Video": {
-     "planned": 2,
-     "done": 0,
-     "ontime": 0
-    }
-   },
-   "signals": [
-    {
-     "key": "fresh",
-     "label": "Report freshness",
-     "value": 3,
-     "fmt": "days",
-     "status": "green",
-     "detail": "Latest week starts 2026-11-10, 3 days ago",
-     "change": null
-    },
-    {
-     "key": "views",
-     "label": "Profile views",
-     "value": 490.0,
-     "fmt": "int",
-     "status": "red",
-     "detail": "vs previous week",
-     "change": -90.86332276710796
-    },
-    {
-     "key": "interactions",
-     "label": "Interactions",
-     "value": 71.0,
-     "fmt": "int",
-     "status": "red",
-     "detail": "vs previous week",
-     "change": -42.74193548387097
-    },
-    {
-     "key": "calls",
-     "label": "Calls",
-     "value": 19.0,
-     "fmt": "int",
-     "status": "red",
-     "detail": "vs previous week",
-     "change": -26.923076923076923
-    },
-    {
-     "key": "directions",
-     "label": "Direction requests",
-     "value": 49.0,
-     "fmt": "int",
-     "status": "red",
-     "detail": "vs previous week",
-     "change": -43.67816091954023
-    },
-    {
-     "key": "rank",
-     "label": "Avg keyword position",
-     "value": 36.6,
-     "fmt": "rank",
-     "status": "red",
-     "detail": "average Google position of the 5 target keywords (lower is better); started at 9",
-     "change": 9.0
-    },
-    {
-     "key": "top10",
-     "label": "Keywords in top 10",
-     "value": 1,
-     "fmt": "of5",
-     "status": "amber",
-     "detail": "target keywords ranking on Google page 1",
-     "change": null
-    },
-    {
-     "key": "rating",
-     "label": "Google rating",
-     "value": 3.4,
-     "fmt": "rating",
-     "status": "red",
-     "detail": "552 reviews in total",
-     "change": null
-    },
-    {
-     "key": "new_reviews",
-     "label": "New reviews this week",
-     "value": 7.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "target 5+ a week",
-     "change": null
-    },
-    {
-     "key": "responses",
-     "label": "Review replies",
-     "value": 7.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "7 replies to 7 new reviews",
-     "change": null
-    },
-    {
-     "key": "negative",
-     "label": "Negative reviews",
-     "value": 0.0,
-     "fmt": "int",
-     "status": "green",
-     "detail": "this week",
-     "change": null
-    },
-    {
-     "key": "posts",
-     "label": "GMB posts this week",
-     "value": 1.0,
-     "fmt": "int",
-     "status": "amber",
-     "detail": "updates + events + offers; target 2+",
-     "change": null
-    },
-    {
-     "key": "ontime",
-     "label": "Agency tasks on time",
-     "value": 36,
-     "fmt": "pct",
-     "status": "red",
-     "detail": "40 of 112 scheduled tasks on time, 69 done in total",
-     "change": null
-    },
-    {
-     "key": "citations",
-     "label": "Citations built",
-     "value": 46.2,
-     "fmt": "pct",
-     "status": "red",
-     "detail": "share of planned directory listings completed",
-     "change": null
-    }
-   ],
-   "score": 33,
-   "overall": "red",
-   "actions": [
-    {
-     "property": "Ranchi",
-     "signal": "Profile views",
-     "priority": "High",
-     "status": "red",
-     "text": "Profile views fell 91% week on week. Post 2 fresh photo updates and check the profile for edits or suspensions."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "Interactions",
-     "priority": "High",
-     "status": "red",
-     "text": "Interactions fell 43% week on week. Add an offer post and make sure the booking link and phone number are live."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "Calls",
-     "priority": "High",
-     "status": "red",
-     "text": "Calls fell 27% week on week. Confirm the listed phone number rings through and is answered 24×7."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "Direction requests",
-     "priority": "High",
-     "status": "red",
-     "text": "Direction requests fell 44% week on week. Check the map pin and address match the website."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "Avg keyword position",
-     "priority": "High",
-     "status": "red",
-     "text": "Keywords average position 36.6. Work keywords into the description, services and posts; build local citations."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "Google rating",
-     "priority": "High",
-     "status": "red",
-     "text": "Rating is 3.4. Ask happy guests for reviews at check-out (QR card at reception) and reply to every low rating."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "Agency tasks on time",
-     "priority": "High",
-     "status": "red",
-     "text": "Agency delivered only 36% of scheduled tasks on time. Raise it in the weekly call with the agency."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "Citations built",
-     "priority": "High",
-     "status": "red",
-     "text": "Citations at 46.2%. Ask Mukul to finish the remaining directory listings."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "Keywords in top 10",
-     "priority": "Medium",
-     "status": "amber",
-     "text": "Only 1 of 5 target keywords on page 1. Prioritise the closest keyword with posts and Q&A that use it."
-    },
-    {
-     "property": "Ranchi",
-     "signal": "GMB posts this week",
-     "priority": "Medium",
-     "status": "amber",
-     "text": "Only 1 GMB posts this week. Publish at least 2 updates (rooms, food, offers)."
     }
    ]
   },
@@ -2213,7 +1769,7 @@
    "expected_week": "2026-11-10",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 55.0,
+    "age_days": 56.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -2223,11 +1779,11 @@
    "activities": {
     "GMB post": {
      "planned": 17,
-     "done": 11,
-     "ontime": 11
+     "done": 12,
+     "ontime": 12
     },
     "Product": {
-     "planned": 16,
+     "planned": 17,
      "done": 9,
      "ontime": 9
     },
@@ -2237,12 +1793,12 @@
      "ontime": 1
     },
     "Service": {
-     "planned": 4,
-     "done": 4,
-     "ontime": 2
+     "planned": 5,
+     "done": 5,
+     "ontime": 3
     },
     "Review response": {
-     "planned": 34,
+     "planned": 35,
      "done": 32,
      "ontime": 9
     },
@@ -2252,29 +1808,29 @@
      "ontime": 0
     },
     "Instagram": {
-     "planned": 4,
+     "planned": 5,
      "done": 0,
      "ontime": 0
     },
     "Facebook": {
-     "planned": 4,
+     "planned": 5,
      "done": 0,
      "ontime": 0
     },
     "LinkedIn": {
-     "planned": 4,
+     "planned": 5,
      "done": 0,
      "ontime": 0
     },
     "Pinterest": {
-     "planned": 4,
-     "done": 4,
-     "ontime": 1
+     "planned": 5,
+     "done": 5,
+     "ontime": 2
     },
     "Images": {
-     "planned": 4,
-     "done": 4,
-     "ontime": 1
+     "planned": 5,
+     "done": 5,
+     "ontime": 2
     },
     "Video": {
      "planned": 2,
@@ -2286,10 +1842,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 10,
+     "value": 11,
      "fmt": "days",
      "status": "red",
-     "detail": "Latest week starts 2026-11-03, 10 days ago; missing: week of 2026-11-10",
+     "detail": "Latest week starts 2026-11-03, 11 days ago; missing: week of 2026-11-10",
      "change": null
     },
     {
@@ -2394,10 +1950,10 @@
     {
      "key": "ontime",
      "label": "Agency tasks on time",
-     "value": 30,
+     "value": 32,
      "fmt": "pct",
      "status": "red",
-     "detail": "34 of 112 scheduled tasks on time, 69 done in total",
+     "detail": "38 of 120 scheduled tasks on time, 73 done in total",
      "change": null
     },
     {
@@ -2467,7 +2023,7 @@
      "signal": "Agency tasks on time",
      "priority": "High",
      "status": "red",
-     "text": "Agency delivered only 30% of scheduled tasks on time. Raise it in the weekly call with the agency."
+     "text": "Agency delivered only 32% of scheduled tasks on time. Raise it in the weekly call with the agency."
     },
     {
      "property": "Gurugram",
@@ -2475,6 +2031,443 @@
      "priority": "Medium",
      "status": "amber",
      "text": "Only 2 new reviews this week. Send review links to checked-out guests daily."
+    }
+   ]
+  },
+  {
+   "key": "ranchi",
+   "name": "Trevon Hotel Gujarat Centrale",
+   "city": "Ranchi",
+   "keywords": [
+    "Hotel rooms in ranchi",
+    "Hotel in ranchi",
+    "Budget hotel in ranchi",
+    "Best budget hotel in ranchi",
+    "3 Star Hotel in ranchi"
+   ],
+   "weeks": [
+    {
+     "week": 0,
+     "start": "2026-10-06",
+     "interactions": 13.0,
+     "calls": 14.0,
+     "chats": 0.0,
+     "directions": 0.0,
+     "website": 0.0,
+     "views": 602.0,
+     "reviews_total": 533.0,
+     "negative": 0.0,
+     "responses": 0.0,
+     "rating": 3.3,
+     "posts": 2.0,
+     "events": 1.0,
+     "offers": 0.0,
+     "citations": null,
+     "products": 2.0,
+     "ranks": [
+      1.0,
+      1.0,
+      1.0,
+      43.0,
+      1.0
+     ]
+    },
+    {
+     "week": 1,
+     "start": "2026-10-13",
+     "interactions": 224.0,
+     "calls": 51.0,
+     "chats": 4.0,
+     "directions": 163.0,
+     "website": 6.0,
+     "views": 1710.0,
+     "reviews_total": 537.0,
+     "negative": 0.0,
+     "responses": 4.0,
+     "rating": 3.3,
+     "posts": 2.0,
+     "events": 1.0,
+     "offers": 0.0,
+     "citations": null,
+     "products": 4.0,
+     "ranks": [
+      29.0,
+      141.0,
+      109.0,
+      102.0,
+      64.0
+     ]
+    },
+    {
+     "week": 2,
+     "start": "2026-10-20",
+     "interactions": 159.0,
+     "calls": 41.0,
+     "chats": 6.0,
+     "directions": 110.0,
+     "website": 2.0,
+     "views": 3261.0,
+     "reviews_total": 539.0,
+     "negative": 0.0,
+     "responses": 2.0,
+     "rating": 3.3,
+     "posts": 2.0,
+     "events": 1.0,
+     "offers": 1.0,
+     "citations": null,
+     "products": 3.0,
+     "ranks": [
+      19.0,
+      16.0,
+      27.0,
+      46.0,
+      8.0
+     ]
+    },
+    {
+     "week": 3,
+     "start": "2026-10-27",
+     "interactions": 174.0,
+     "calls": 36.0,
+     "chats": 3.0,
+     "directions": 127.0,
+     "website": 8.0,
+     "views": 4390.0,
+     "reviews_total": 543.0,
+     "negative": 0.0,
+     "responses": 4.0,
+     "rating": 3.3,
+     "posts": 3.0,
+     "events": 1.0,
+     "offers": 0.0,
+     "citations": null,
+     "products": 2.0,
+     "ranks": [
+      18.0,
+      15.0,
+      25.0,
+      54.0,
+      7.0
+     ]
+    },
+    {
+     "week": 4,
+     "start": "2026-11-03",
+     "interactions": 124.0,
+     "calls": 26.0,
+     "chats": 4.0,
+     "directions": 87.0,
+     "website": 9.0,
+     "views": 5363.0,
+     "reviews_total": 545.0,
+     "negative": 0.0,
+     "responses": 2.0,
+     "rating": 3.4,
+     "posts": 3.0,
+     "events": 1.0,
+     "offers": 1.0,
+     "citations": null,
+     "products": 3.0,
+     "ranks": [
+      74.0,
+      32.0,
+      53.0,
+      56.0,
+      13.0
+     ]
+    },
+    {
+     "week": 5,
+     "start": "2026-11-10",
+     "interactions": 71.0,
+     "calls": 19.0,
+     "chats": 0.0,
+     "directions": 49.0,
+     "website": 3.0,
+     "views": 490.0,
+     "reviews_total": 552.0,
+     "negative": 0.0,
+     "responses": 7.0,
+     "rating": 3.4,
+     "posts": 2.0,
+     "events": 0.0,
+     "offers": 0.0,
+     "citations": null,
+     "products": 2.0,
+     "ranks": [
+      37.0,
+      26.0,
+      55.0,
+      55.0,
+      10.0
+     ]
+    }
+   ],
+   "expected_week": "2026-11-10",
+   "pms": {
+    "start": "2026-10-06",
+    "age_days": 56.0,
+    "setup_owner": "Anshul",
+    "owner": "akansha",
+    "citation_owner": "Mukul",
+    "status": "In Progress",
+    "citation_pct": 46.2
+   },
+   "activities": {
+    "GMB post": {
+     "planned": 17,
+     "done": 16,
+     "ontime": 15
+    },
+    "Product": {
+     "planned": 17,
+     "done": 15,
+     "ontime": 10
+    },
+    "Offer": {
+     "planned": 2,
+     "done": 2,
+     "ontime": 1
+    },
+    "Service": {
+     "planned": 5,
+     "done": 4,
+     "ontime": 0
+    },
+    "Review response": {
+     "planned": 35,
+     "done": 25,
+     "ontime": 14
+    },
+    "Citation": {
+     "planned": 17,
+     "done": 0,
+     "ontime": 0
+    },
+    "Instagram": {
+     "planned": 5,
+     "done": 0,
+     "ontime": 0
+    },
+    "Facebook": {
+     "planned": 5,
+     "done": 2,
+     "ontime": 0
+    },
+    "LinkedIn": {
+     "planned": 5,
+     "done": 4,
+     "ontime": 1
+    },
+    "Pinterest": {
+     "planned": 5,
+     "done": 2,
+     "ontime": 0
+    },
+    "Images": {
+     "planned": 5,
+     "done": 0,
+     "ontime": 0
+    },
+    "Video": {
+     "planned": 2,
+     "done": 0,
+     "ontime": 0
+    }
+   },
+   "signals": [
+    {
+     "key": "fresh",
+     "label": "Report freshness",
+     "value": 4,
+     "fmt": "days",
+     "status": "green",
+     "detail": "Latest week starts 2026-11-10, 4 days ago",
+     "change": null
+    },
+    {
+     "key": "views",
+     "label": "Profile views",
+     "value": 490.0,
+     "fmt": "int",
+     "status": "red",
+     "detail": "vs previous week",
+     "change": -90.86332276710796
+    },
+    {
+     "key": "interactions",
+     "label": "Interactions",
+     "value": 71.0,
+     "fmt": "int",
+     "status": "red",
+     "detail": "vs previous week",
+     "change": -42.74193548387097
+    },
+    {
+     "key": "calls",
+     "label": "Calls",
+     "value": 19.0,
+     "fmt": "int",
+     "status": "red",
+     "detail": "vs previous week",
+     "change": -26.923076923076923
+    },
+    {
+     "key": "directions",
+     "label": "Direction requests",
+     "value": 49.0,
+     "fmt": "int",
+     "status": "red",
+     "detail": "vs previous week",
+     "change": -43.67816091954023
+    },
+    {
+     "key": "rank",
+     "label": "Avg keyword position",
+     "value": 36.6,
+     "fmt": "rank",
+     "status": "red",
+     "detail": "average Google position of the 5 target keywords (lower is better); started at 9",
+     "change": 9.0
+    },
+    {
+     "key": "top10",
+     "label": "Keywords in top 10",
+     "value": 1,
+     "fmt": "of5",
+     "status": "amber",
+     "detail": "target keywords ranking on Google page 1",
+     "change": null
+    },
+    {
+     "key": "rating",
+     "label": "Google rating",
+     "value": 3.4,
+     "fmt": "rating",
+     "status": "red",
+     "detail": "552 reviews in total",
+     "change": null
+    },
+    {
+     "key": "new_reviews",
+     "label": "New reviews this week",
+     "value": 7.0,
+     "fmt": "int",
+     "status": "green",
+     "detail": "target 5+ a week",
+     "change": null
+    },
+    {
+     "key": "responses",
+     "label": "Review replies",
+     "value": 7.0,
+     "fmt": "int",
+     "status": "green",
+     "detail": "7 replies to 7 new reviews",
+     "change": null
+    },
+    {
+     "key": "negative",
+     "label": "Negative reviews",
+     "value": 0.0,
+     "fmt": "int",
+     "status": "green",
+     "detail": "this week",
+     "change": null
+    },
+    {
+     "key": "posts",
+     "label": "GMB posts this week",
+     "value": 2.0,
+     "fmt": "int",
+     "status": "green",
+     "detail": "updates + events + offers; target 2+",
+     "change": null
+    },
+    {
+     "key": "ontime",
+     "label": "Agency tasks on time",
+     "value": 34,
+     "fmt": "pct",
+     "status": "red",
+     "detail": "41 of 120 scheduled tasks on time, 70 done in total",
+     "change": null
+    },
+    {
+     "key": "citations",
+     "label": "Citations built",
+     "value": 46.2,
+     "fmt": "pct",
+     "status": "red",
+     "detail": "share of planned directory listings completed",
+     "change": null
+    }
+   ],
+   "score": 36,
+   "overall": "red",
+   "actions": [
+    {
+     "property": "Ranchi",
+     "signal": "Profile views",
+     "priority": "High",
+     "status": "red",
+     "text": "Profile views fell 91% week on week. Post 2 fresh photo updates and check the profile for edits or suspensions."
+    },
+    {
+     "property": "Ranchi",
+     "signal": "Interactions",
+     "priority": "High",
+     "status": "red",
+     "text": "Interactions fell 43% week on week. Add an offer post and make sure the booking link and phone number are live."
+    },
+    {
+     "property": "Ranchi",
+     "signal": "Calls",
+     "priority": "High",
+     "status": "red",
+     "text": "Calls fell 27% week on week. Confirm the listed phone number rings through and is answered 24×7."
+    },
+    {
+     "property": "Ranchi",
+     "signal": "Direction requests",
+     "priority": "High",
+     "status": "red",
+     "text": "Direction requests fell 44% week on week. Check the map pin and address match the website."
+    },
+    {
+     "property": "Ranchi",
+     "signal": "Avg keyword position",
+     "priority": "High",
+     "status": "red",
+     "text": "Keywords average position 36.6. Work keywords into the description, services and posts; build local citations."
+    },
+    {
+     "property": "Ranchi",
+     "signal": "Google rating",
+     "priority": "High",
+     "status": "red",
+     "text": "Rating is 3.4. Ask happy guests for reviews at check-out (QR card at reception) and reply to every low rating."
+    },
+    {
+     "property": "Ranchi",
+     "signal": "Agency tasks on time",
+     "priority": "High",
+     "status": "red",
+     "text": "Agency delivered only 34% of scheduled tasks on time. Raise it in the weekly call with the agency."
+    },
+    {
+     "property": "Ranchi",
+     "signal": "Citations built",
+     "priority": "High",
+     "status": "red",
+     "text": "Citations at 46.2%. Ask Mukul to finish the remaining directory listings."
+    },
+    {
+     "property": "Ranchi",
+     "signal": "Keywords in top 10",
+     "priority": "Medium",
+     "status": "amber",
+     "text": "Only 1 of 5 target keywords on page 1. Prioritise the closest keyword with posts and Q&A that use it."
     }
    ]
   }
