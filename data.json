@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14 09:54 IST",
+ "generated_at": "2026-11-15 09:54 IST",
  "properties": [
   {
    "key": "haldwani",
@@ -1369,7 +1369,7 @@
    "expected_week": "2026-11-09",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 56.0,
+    "age_days": 57.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -1769,7 +1769,7 @@
    "expected_week": "2026-11-10",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 56.0,
+    "age_days": 57.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -1842,10 +1842,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 11,
+     "value": 12,
      "fmt": "days",
      "status": "red",
-     "detail": "Latest week starts 2026-11-03, 11 days ago; missing: week of 2026-11-10",
+     "detail": "Latest week starts 2026-11-03, 12 days ago; missing: week of 2026-11-10",
      "change": null
     },
     {
@@ -2206,7 +2206,7 @@
    "expected_week": "2026-11-10",
    "pms": {
     "start": "2026-10-06",
-    "age_days": 56.0,
+    "age_days": 57.0,
     "setup_owner": "Anshul",
     "owner": "akansha",
     "citation_owner": "Mukul",
@@ -2279,10 +2279,10 @@
     {
      "key": "fresh",
      "label": "Report freshness",
-     "value": 4,
+     "value": 5,
      "fmt": "days",
      "status": "green",
-     "detail": "Latest week starts 2026-11-10, 4 days ago",
+     "detail": "Latest week starts 2026-11-10, 5 days ago",
      "change": null
     },
     {
