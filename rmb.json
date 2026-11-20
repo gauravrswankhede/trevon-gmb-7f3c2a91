@@ -1,0 +1,53 @@
+{
+  "source": "RateMyBiz (get.ratemybiz.xyz)",
+  "checked_at": "2026-11-21T02:00:00+05:30",
+  "hotels": [
+    {"key": "chakrata", "name": "Trevon Ridgeview Cottages", "city": "Chakrata", "status": "connected",
+     "rating": 4.9, "reviews": 471, "new_month": 1, "month": "Nov 2026", "goal_rating": null, "goal_needed": null,
+     "unreplied": 6, "unreplied_note": "Jun–Sep reviews, incl. 2 negative (room hygiene, bed bugs)",
+     "local_rank": 4, "local_of": 20, "review_score": 5.6,
+     "maps": {"top3": 0, "top10": 0, "top20": 3, "beyond": 6, "best": "11", "keyword": "Hotel", "radius_km": 5, "data_month": "Nov 2026", "updated": "17 Nov 2026"},
+     "ai": "SEO agent auto-replies to new reviews (since 20 Nov)",
+     "complaint": "Room hygiene (fungus, bed bugs); power cuts with no generator; weak Wi-Fi"},
+    {"key": "dhanbad", "name": "Trevon Twin Tree", "city": "Dhanbad", "status": "connected",
+     "rating": 4.8, "reviews": 259, "new_month": 4, "month": "Nov 2026", "goal_rating": 4.9, "goal_needed": 259,
+     "unreplied": 0, "unreplied_note": "",
+     "local_rank": 6, "local_of": 20, "review_score": 5.1,
+     "maps": {"top3": 0, "top10": 4, "top20": 3, "beyond": 2, "best": "4", "keyword": "Hotel", "radius_km": 5, "data_month": "Nov 2026", "updated": "17 Nov 2026"},
+     "ai": "None yet",
+     "complaint": "Slow restaurant service; one rude staff member; parking; items out of stock"},
+    {"key": "gurugram", "name": "Trevon Inn Gurugram", "city": "Gurugram", "status": "connected",
+     "rating": 4.8, "reviews": 53, "new_month": 7, "month": "Nov 2026", "goal_rating": 4.9, "goal_needed": 53,
+     "unreplied": null, "unreplied_note": "Review list did not load on RateMyBiz",
+     "local_rank": 13, "local_of": 21, "review_score": 4.8,
+     "maps": {"top3": 0, "top10": 0, "top20": 0, "beyond": 9, "best": "21+", "keyword": "Hotel", "radius_km": 5, "data_month": "Oct 2026", "updated": "2 Nov 2026"},
+     "ai": "None yet",
+     "complaint": "Food service; maintenance; missing in-room essentials"},
+    {"key": "haldwani", "name": "Trevon The Shire Inn", "city": "Haldwani", "status": "connected",
+     "rating": 4.6, "reviews": 328, "new_month": 2, "month": "Nov 2026", "goal_rating": 4.7, "goal_needed": 110,
+     "unreplied": 2, "unreplied_note": "18 Nov and 13 Nov",
+     "local_rank": 2, "local_of": 20, "review_score": 5.4,
+     "maps": {"top3": 1, "top10": 1, "top20": 2, "beyond": 5, "best": "3", "keyword": "Hotel", "radius_km": 5, "data_month": "Nov 2026", "updated": "15 Nov 2026"},
+     "ai": "GEO agent published 2 local travel guides (15 and 18 Nov)",
+     "complaint": "Staff conduct incidents (security guard); prices differ from booking sites"},
+    {"key": "goa", "name": "Trevon Hotels & Resorts Goa", "city": "Goa (Candolim)", "status": "connected",
+     "rating": 4.2, "reviews": 552, "new_month": 8, "month": "Nov 2026", "goal_rating": 4.3, "goal_needed": 79,
+     "unreplied": 0, "unreplied_note": "",
+     "local_rank": 20, "local_of": 21, "review_score": 4.5,
+     "maps": {"top3": 0, "top10": 0, "top20": 0, "beyond": 9, "best": "21+", "keyword": "Hotel", "radius_km": 5, "data_month": "Nov 2026", "updated": "16 Nov 2026"},
+     "ai": "SEO agent auto-replies to new reviews (since 20 Nov)",
+     "complaint": "Rude reception/management; towel, extra-bed and slipper policies; parking; room cleaned without consent"},
+    {"key": "delhi", "name": "Trevon Inn Delhi", "city": "Delhi (Karol Bagh)", "status": "not_connected"},
+    {"key": "ranchi", "name": "Trevon Ranchi", "city": "Ranchi", "status": "not_connected"},
+    {"key": "marchula", "name": "Trevon Corbett Pine Exotica", "city": "Marchula (Jim Corbett)", "status": "not_on_platform"}
+  ],
+  "history": [
+    {"date": "2026-11-21", "hotels": {
+      "chakrata": {"rating": 4.9, "reviews": 471, "unreplied": 6, "maps_top10": 0},
+      "dhanbad": {"rating": 4.8, "reviews": 259, "unreplied": 0, "maps_top10": 4},
+      "gurugram": {"rating": 4.8, "reviews": 53, "unreplied": null, "maps_top10": 0},
+      "haldwani": {"rating": 4.6, "reviews": 328, "unreplied": 2, "maps_top10": 2},
+      "goa": {"rating": 4.2, "reviews": 552, "unreplied": 0, "maps_top10": 0}
+    }}
+  ]
+}
